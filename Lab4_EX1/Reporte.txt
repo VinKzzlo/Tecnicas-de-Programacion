@@ -1,0 +1,364 @@
+                                      EMPRESA DE SALUD S. A.
+===================================================================================================================
+                                   REGISTRO DE CITAS MEDICAS
+===================================================================================================================
+Codigo del medico: 50611
+Nombre del medico: EDGAR MUNOZ VERGEL
+Especialidad: UROLOGIA
+Tarifa: 337.03
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+09/09/2023      9468338011:17:5212:48:30
+Codigo del medico: 15092
+Nombre del medico: LUZ SOFIA JAUREGUI BRAVO
+Especialidad: DERMATOLOGIA
+Tarifa: 756.45
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+40414/8409/0009             01877610208:6422020:11561:4202559:6421208
+Codigo del medico: 60184
+Nombre del medico: SURAMI HELI PRECIADO PINTO
+Especialidad: TRAUMATOLOGIA
+Tarifa: 738.9
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 90798
+Nombre del medico: GIOVANA MEJIA ZEGARRA
+Especialidad: TRAUMATOLOGIA
+Tarifa: 758.51
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 80786
+Nombre del medico: ROSARIO MARIBEL YEP ZAVALETA
+Especialidad: GINECOLOGIA
+Tarifa: 997.38
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 70233
+Nombre del medico: CINTHIA MILENA ZEGARRA CABELLO
+Especialidad: GINECOLOGIA
+Tarifa: 902.38
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 89213
+Nombre del medico: DELIA ZARATE URBINA
+Especialidad: GASTROENTEROLOGIA
+Tarifa: 389.91
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 90907
+Nombre del medico: FIORELLA ERIKA FLORENCIO POLO
+Especialidad: DERMATOLOGIA
+Tarifa: 470.72
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 60934
+Nombre del medico: OFELIA CARMEN MERCADO CARO
+Especialidad: NEUMOLOGIA
+Tarifa: 526.45
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 14787
+Nombre del medico: WALTER JOLAY CHUMPITAZ
+Especialidad: TRAUMATOLOGIA
+Tarifa: 298.45
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 60049
+Nombre del medico: HUMBERTO ALBERTO VARGAS GUEVARA
+Especialidad: GASTROENTEROLOGIA
+Tarifa: 780.49
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 70269
+Nombre del medico: DELICIA ARCA AQUINO
+Especialidad: DERMATOLOGIA
+Tarifa: 523.53
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 53556
+Nombre del medico: VALENTINA PAULA URBINA ANTEZANO
+Especialidad: PEDIATRIA
+Tarifa: 410.37
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 70612
+Nombre del medico: ZKENIA IRMA CHUNG ZUNIGA
+Especialidad: TRAUMATOLOGIA
+Tarifa: 842.24
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 64405
+Nombre del medico: LOURDES CARMELA YALLICO PAREDES
+Especialidad: OFTALMOLOGIA
+Tarifa: 232.61
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 90929
+Nombre del medico: DELICIA ROSA ARCA LEIVA
+Especialidad: OFTALMOLOGIA
+Tarifa: 405.69
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 70367
+Nombre del medico: DELIA ESTEFANIA CABRERA MORENO
+Especialidad: UROLOGIA
+Tarifa: 781.15
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 18708
+Nombre del medico: WILMER SAENZ ARANDA
+Especialidad: GINECOLOGIA
+Tarifa: 176.6
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 80138
+Nombre del medico: GUSTAVO ALONSO DEL CASTILLO MEJIA
+Especialidad: GERIATRIA
+Tarifa: 319.8
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 35451
+Nombre del medico: JAVIER EDGARD LANDA CABRERA
+Especialidad: PEDIATRIA
+Tarifa: 897.5
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 70992
+Nombre del medico: OFELIA BEATRIZ MONTERO BOLANOS
+Especialidad: GASTROENTEROLOGIA
+Tarifa: 525.59
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 49768
+Nombre del medico: MARINA NATALIA GARCIA INGA
+Especialidad: CARDIOLOGIA
+Tarifa: 197.06
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 33687
+Nombre del medico: BLANCA LUZ ACUNA AYLLON
+Especialidad: OFTALMOLOGIA
+Tarifa: 654.46
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 70789
+Nombre del medico: VICTORIA MILAGROS SHIRAKAWA SAONA
+Especialidad: PEDIATRIA
+Tarifa: 19.29
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 18262
+Nombre del medico: EMILIO EMIGDIO GONZALES AGUIRRE
+Especialidad: UROLOGIA
+Tarifa: 981.29
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 14655
+Nombre del medico: GLENDA CABRERA MORI
+Especialidad: ONCOLOGIA
+Tarifa: 940.91
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 80227
+Nombre del medico: TERESA TERESA MARTEL MERCADO
+Especialidad: PEDIATRIA
+Tarifa: 170.85
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 34115
+Nombre del medico: MIGUEL ALEX LANDEO ESTRADA
+Especialidad: CARDIOLOGIA
+Tarifa: 893.34
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 80040
+Nombre del medico: DAVID CARLOS PEREZ ANTEZANO
+Especialidad: ENDOCRINOLOGIA
+Tarifa: 4.56
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 25448
+Nombre del medico: CARMEN ZAMORA CABRERA
+Especialidad: ENDOCRINOLOGIA
+Tarifa: 496.87
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 40414
+Nombre del medico: YLIANA FLOR ORTIZ GUEVARA
+Especialidad: GINECOLOGIA
+Tarifa: 55.48
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 90562
+Nombre del medico: HUMBERTO ALFONSO AMEZQUITA CONTRERAS
+Especialidad: DERMATOLOGIA
+Tarifa: 869.33
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 91509
+Nombre del medico: RAUL COLLADO VILLA
+Especialidad: CARDIOLOGIA
+Tarifa: 146.35
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 30557
+Nombre del medico: JAIME JULIAN SHIRAKAWA FLORIAN
+Especialidad: NEUMOLOGIA
+Tarifa: 169.44
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 20189
+Nombre del medico: FRANCISCO ZIMIC SALAS
+Especialidad: ENDOCRINOLOGIA
+Tarifa: 854.93
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 30082
+Nombre del medico: ALFONSO WALDEMAR CABELLO LAM
+Especialidad: CARDIOLOGIA
+Tarifa: 184.46
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 50718
+Nombre del medico: ESTEFANIA ZEGARRA CASANOVA
+Especialidad: PEDIATRIA
+Tarifa: 264.21
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 52063
+Nombre del medico: MILENA CINTHIA ZARATE ACUNA
+Especialidad: TRAUMATOLOGIA
+Tarifa: 792.07
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 80063
+Nombre del medico: VICTORIA FIORELLA CUBA POMAJAMBO
+Especialidad: GASTROENTEROLOGIA
+Tarifa: 256.05
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208
+Codigo del medico: 19777
+Nombre del medico: ROSARIO TABORI ARIAS
+Especialidad: OFTALMOLOGIA
+Tarifa: 977.98
+PACIENTES ATENDIDOS
+===================================================================================================================
+     Fecha    Paciente      Inicio         Fin    Duracion    % por descuento por Seguro  Pago por cita
+===================================================================================================================
+12/12/0012       64220201877610208:6422020:11561:4202559:6421208

@@ -1,0 +1,169 @@
+LISTA DE ARTICULOS
+CODIGO    DESCRIPCION PRODUCTO                                        STOCK     PRECIO    NUM VENDIDOS  MONTO VENDIDO  NUM NO VENDIDOS  MONTO PERDIDO  
+BIT-434   Campana Extractora modelo Glass                                 1      375.09          10       3750.90              5           1875.45
+SSE-115   Refrigeradora  CoolStyle 311N Steel                             5     3243.58          19      61628.02              0              0.00
+NMV-644   Lavadora Automatica                                             1     3272.48           4      13089.92              0              0.00
+MLE-193   Cocina a gas Ingenious                                          1     2779.41           5      13897.05              0              0.00
+YYK-309   Refrigeradora Door in Door                                      1     4079.44           6      24476.64              0              0.00
+QVJ-982   Horno Microondas 0.7 p3                                         3     1352.76          13      17585.88              0              0.00
+VZV-827   Refrigeradora Top Mount                                         4     1784.27          13      23195.51              0              0.00
+HFC-845   Televisor Serie LED R555A                                       5     3736.75          21      78471.75              0              0.00
+AVM-258   Cocina a gas Toscana                                            7     2831.23          27      76443.21              0              0.00
+YUQ-590   Refrigeradora  CoolStyle 395N Steel                            10     1979.07          45      89058.15              0              0.00
+FLJ-040   Parlantes portatiles SOUNDSHOOTER                               6     3703.37          21      77770.77              0              0.00
+EUZ-452   Impresora Mutifuncional Led Color                               7     3623.88          25      90597.00              0              0.00
+SPR-580   Dispensador de Agua                                             6      404.35          22       8895.70              0              0.00
+WLL-607   Cocina Electronica Convencion                                   2     1525.04           0          0.00              3           4575.12
+UWA-476   Autoradio MEX BT3150U                                           0     1191.39          35      41698.65             10          11913.90
+YOT-530   Deshumedecedor DM-190H                                          7      941.73          32      30135.36              0              0.00
+NSR-955   Cocina a gas Blogna                                             2     2591.44           9      23322.96              0              0.00
+SJD-818   Refrigeradora  CoolStyle 281A Steel                             3     3387.75          12      40653.00              0              0.00
+BCK-361   Tablets 10.1                                                    0     1872.53          13      24342.89              5           9362.65
+ZAF-449   Tablet Cardle                                                   5      816.43          20      16328.60              0              0.00
+OBI-353   Terma Milenium                                                  2     2960.56          12      35526.72              0              0.00
+SNY-500   Cocina a gas Praga Quarzo                                       7     3297.09          24      79130.16              0              0.00
+CSZ-863   Video Filmadora                                                 0     1713.57          12      20562.84              4           6854.28
+TMJ-043   Lavadora EcoBubble                                              5     2400.79          22      52817.38              0              0.00
+MTF-868   Impresora Monocromatica WorkForce M205                          7      971.59          25      24289.75              0              0.00
+BMJ-772   Refrigeradora Side by Side                                      3      936.32          12      11235.84              0              0.00
+MYC-756   Cocina a gas Leganza INOX                                       1     1506.80           7      10547.60              0              0.00
+FCN-617   Televisor Plasma 60                                             2     4121.05          10      41210.50              0              0.00
+ONB-903   Reproductor BLU-RAY 3D                                          1      653.67           3       1961.01              3           1961.01
+VXS-438   Mouse Blue Tooth                                                7       60.11          26       1562.86              0              0.00
+GLC-370   Video Proyector Power Lite 95                                   3      552.24          13       7179.12              0              0.00
+OPT-996   Mini componente GPX88                                           6     1367.48          21      28717.08              0              0.00
+PFD-286   Refrigeradora cap. 415 litros                                   6     2776.02          21      58296.42              0              0.00
+KBY-991   Home Theater E4100                                              2     1101.08          10      11010.80              6           6606.48
+KQQ-136   Impresora Laser EPSON                                           6     1139.56          25      28489.00              0              0.00
+NSM-283   Cocina a gas FFG3053SL                                          4      936.81          13      12178.53              0              0.00
+ICX-503   Cocina a gas Roma                                               5     1221.02          20      24420.40              0              0.00
+LDR-510   Mini componente ESX9                                            8     2701.87          26      70248.62              0              0.00
+PJG-338   Impresora Mutifuncional Inalambricar                            5     1067.80          19      20288.20              0              0.00
+ISB-205   Camara fotografica 16MP                                         0     2976.43           0          0.00              0              0.00
+UDR-957   Refrigeradora ECOTT 423 IXL                                     2      861.70          10       8617.00              6           5170.20
+RAH-420   Cocina a gas Pro 6550 INOX                                      2      157.01           6        942.06              0              0.00
+JDQ-505   Lavadora Modelo Aquamatic                                       0     1572.31           6       9433.86              1           1572.31
+PPX-620   Aire acondicionado tipo split                                   1     2873.42           4      11493.68              0              0.00
+XZG-521   Secadora Electrica FAQE7001LW                                   5      704.27          18      12676.86              0              0.00
+VJI-529   Horno Empotrable Electrico                                      5     1102.67          23      25361.41              0              0.00
+JCW-489   Conservadora Exibidora CMVE-250                                 3     2064.97          14      28909.58              0              0.00
+OTS-581   Galaxy Note 8.0                                                 0     2653.10           8      21224.80              3           7959.30
+UTN-601   Autoradio XAV-601 BT                                            4      562.51          15       8437.65              0              0.00
+TZY-323   Terma a gas                                                    14     2341.01          49     114709.49              0              0.00
+TXM-139   Televisor LED FULL HD 3D                                        7     1092.95          33      36067.35              0              0.00
+ADX-669   Refrigeradora cap. 220 litros                                   1     1239.38           2       2478.76              0              0.00
+QRC-609   Camara de video EOS                                             0     1806.66          20      36133.20              9          16259.94
+YJD-279   Cocina a gas Florencia                                          6     1028.43          20      20568.60              0              0.00
+AHB-459   Reproductor DVD Portatil TV 7                                   1      685.50           5       3427.50              0              0.00
+MMA-577   Congeladora Horizontal 252 Lts.                                 5     1780.30          20      35606.00              0              0.00
+VCL-867   Cocina a gas Rubi 2                                             7      699.07          26      18175.82              0              0.00
+JDC-028   Puntero Laser                                                   5       30.48          19        579.12              0              0.00
+JXD-139   Terma Evolucion Soltu                                           9      586.02          32      18752.64              0              0.00
+KQA-580   Cocina Empotrable Glassy Plus                                   7     2907.92          28      81421.76              0              0.00
+XSD-310   Refrigeradora No frost                                          7     2259.93          32      72317.76              0              0.00
+YYU-726   Reproductor DVD Portatil                                        6      767.82          20      15356.40              0              0.00
+EVN-510   Cocina a gas FFG3011LB                                          1     2672.30           4      10689.20              0              0.00
+LZK-729   Cocina a gas Kristel                                            0     2850.91           0          0.00              0              0.00
+AQS-362   Teclado Inalambrico USB                                        11      233.05          37       8622.85              0              0.00
+AWT-354   Galaxy Gear                                                     4     3409.22           5      17046.10              6          20455.32
+CJE-310   Mini componente GPX33                                           2     3643.39           8      29147.12              0              0.00
+KWP-672   Televisor UHD TV                                                6     1625.30          26      42257.80              0              0.00
+DOV-560   Impresora Laser Mutifuncion Monocromatica                       1     1203.14           1       1203.14              2           2406.28
+RBE-789   Televisor SMART TV                                              3     3303.07           6      19818.42              7          23121.49
+KCO-488   Ventilador de pared                                             2      679.60          17      11553.20              8           5436.80
+KSO-608   Secadora Modelo Italica                                         2      914.17          11      10055.87              0              0.00
+TKM-141   Cocina a gas Marsella                                           6      402.24          27      10860.48              0              0.00
+QUU-384   Lavavajilla Blue Touch                                         11     2545.54          36      91639.44              0              0.00
+VRR-793   Rack Giratorio 32/60                                           10      241.71          46      11118.66              0              0.00
+SAM-013   Cocina a gas FFG3047SL                                          3     2275.18           5      11375.90              6          13651.08
+YMU-875   Cocina a gas Plermo Quarzo                                      4     3232.10           8      25856.80              7          22624.70
+SSD-176   Refrigeradora Linea Gallery                                    11      567.71          49      27817.79              0              0.00
+DFJ-952   Cocina a gas Prestige 60 INOX                                   5     3342.77          18      60169.86              0              0.00
+BZS-261   Cocina a gas Trento                                             1     3087.87           3       9263.61              0              0.00
+ARS-231   Audifonos Stereos                                               3      327.62          11       3603.82              0              0.00
+SJQ-827   Reproductor Multimedia Touch Screen                             5     1719.56          18      30952.08              0              0.00
+UJV-290   Cocina a gas Fassina Plus                                       4     2423.26          16      38772.16              0              0.00
+QTK-083   Congeladora Conservador Vertical 476 Lts.                       4     2682.73          18      48289.14              0              0.00
+EQY-018   Radio AM/FM stereo RMU-51C                                      0      301.73           0          0.00              0              0.00
+OQI-373   Cocina Empotrable Premio Plus                                   8      906.16          41      37152.56              0              0.00
+OTH-462   Lavadora Semi-Automatica                                        8      531.04          29      15400.16              0              0.00
+XTE-383   Rack Fijo 32/60                                                 0      261.01           1        261.01              0              0.00
+ZVA-180   Refrigeradora 322 litros                                        6     2903.13          23      66771.99              0              0.00
+BCN-855   Cocina a gas Bahia Can                                          5     4015.92           5      20079.60              9          36143.28
+PQH-935   Rack Giratorio 26/32                                            0       94.45           1         94.45              0              0.00
+LYZ-614   Impresore Mutifuncional Expression XP-211                       2     3510.84           8      28086.72              0              0.00
+FYF-898   Proyector a color                                               2     1160.46           0          0.00              3           3481.38
+OPJ-039   Secadora de Ropa                                                5     2765.64          19      52547.16              0              0.00
+CNN-411   Congeladora Side by Side                                        6     2296.29           3       6888.87              9          20666.61
+KJX-387   Ventilador de techo                                             6      613.19          29      17782.51              0              0.00
+JFC-432   DVD DVM-L79                                                     7      307.67          35      10768.45              0              0.00
+EJW-346   Campana Extractora                                              0      359.70           8       2877.60              2            719.40
+EBI-299   Cocina a gas Fridare                                            6     2287.57          27      61764.39              0              0.00
+FEG-454   Sillon masajeador                                               1     1695.70           5       8478.50              0              0.00
+YEZ-591   Lavadora WA                                                     3     1320.03           9      11880.27              0              0.00
+UXG-019   Terma de acumulacion                                            8      934.91          31      28982.21              0              0.00
+FVB-607   Cocina a gas Essenza BL                                         2     2953.07          11      32483.77              0              0.00
+RDT-761   Horno Microondas con dorador                                   10      904.95          36      32578.20              0              0.00
+BWD-036   Cocina Empotrable Klimatica                                     6     1086.34          28      30417.52              0              0.00
+TMN-884   Secadora de mano                                                5      310.65          21       6523.65              0              0.00
+ZXK-295   Cocina Empotrable Electrica                                     8     3679.43           0          0.00             10          36794.30
+DIQ-718   Horno Microondas de Conveccion Cello                            5      390.80          23       8988.40              0              0.00
+BTO-226   Friobar                                                         6      863.19           2       1726.38              9           7768.71
+DFF-034   Grabadora de voz digital portátil con USB integrado             0      259.25          17       4407.25              5           1296.25
+OFS-384   Parlantes Bluetooth                                             8      805.22          26      20935.72              0              0.00
+YZD-580   Mini componente ESX8                                            3     1582.29          11      17405.19              0              0.00
+OTW-288   Cavba de Vinos GE cap. 34 botellas                              5     1119.18          22      24621.96              0              0.00
+UOD-420   Mini componente ESX6                                            1      828.94           6       4973.64              0              0.00
+IDO-503   Laptop GamerVictus de 15.6                                      7     3935.17           4      15740.68             10          39351.70
+VDD-853   Deshumedecedor  FAD30D7TSSW 3.4L 25-30m2                        5     1095.67          19      20817.73              0              0.00
+VTV-269   Extractor de aire                                               2      854.48           6       5126.88              0              0.00
+XZR-640   Lavadora-Secadora FWD                                           2     2390.58          12      28686.96              0              0.00
+DON-719   Secadora de Cabello SG-3035                                     6      360.69          26       9377.94              0              0.00
+HTY-123   Refrigeradora GM-S604ULV                                        0     1173.33           0          0.00              0              0.00
+LWG-915   Cocina a gas Murano                                             4     1101.47          19      20927.93              0              0.00
+JYQ-045   Horno Microondas 1.2 p3                                         2      267.15           9       2404.35              0              0.00
+AWB-345   Deshumedecedor DM-189H                                         13      800.37          47      37617.39              0              0.00
+YGV-332   Impresora Led Color                                             4     2517.66           4      10070.64              7          17623.62
+HLR-109   Parlantes inalambricos                                          3      439.47          15       6592.05              0              0.00
+MQR-442   Reloj Digital RMM-29                                            4      271.66          17       4618.22              0              0.00
+GBD-525   Refrigeradora Puertas Mágicas                                   3     2700.95          10      27009.50              0              0.00
+DEV-433   Parlantes portatiles SHOQBOX                                    3     2698.74          10      26987.40              0              0.00
+OXP-732   Televisor OLED 4K UHD Google TV Smart 77 XR-77A80L LA8          4    16504.47          20     330089.40              0              0.00
+FVQ-662   Cocina a gas Pro 6300 INOX                                      8     1060.68          34      36063.12              0              0.00
+DEN-125   Rack Fijo 26/32                                                 4      562.46           1        562.46              6           3374.76
+CRU-009   Lavavajilla                                                     6     2655.78          22      58427.16              0              0.00
+RSE-049   Radio CD/DVD - TV                                               2     4037.51           7      28262.57              0              0.00
+BRD-969   Centro de Lavado Electrico                                      9     2579.72          32      82551.04              0              0.00
+CIM-038   Cocina Empotrable Petra                                        15     2544.64          53     134865.92              0              0.00
+CNQ-172   Congeladora Horizontal 364 Lts.                                 3     3689.62          12      44275.44              0              0.00
+QFR-958   Cocina a gas Bavaro                                             2     1607.46           7      11252.22              0              0.00
+TYF-885   Videojuego TW 4                                                 6      794.14          28      22235.92              0              0.00
+VVS-017   Tablets MW 0731                                                 1     2599.72           6      15598.32              3           7799.16
+BXY-119   Cocina Empotrable Klimatica                                     8     2716.11          27      73334.97              0              0.00
+GKG-558   Horno Microondas MS2042D                                        3     1674.24           9      15068.16              0              0.00
+UCX-285   Galaxy Tab 3                                                    1     3290.93           5      16454.65              0              0.00
+WZD-331   Refrigeradora ECOTT 465 IX                                      5     1213.79          21      25489.59              0              0.00
+AFL-718   Vinera                                                         10     1664.97          47      78253.59              0              0.00
+JJN-837   Lavadora Tecnologia Wobbie                                      5     1979.92          20      39598.40              0              0.00
+KDA-627   Cocina a gas Ijasmin                                            0     1424.46           2       2848.92              0              0.00
+PVZ-181   Ventilador circular                                             2      309.77           8       2478.16              0              0.00
+ISU-815   Audifonos                                                       3      619.89          15       9298.35              0              0.00
+OWN-701   Olla arrocera                                                   3      220.82          13       2870.66              0              0.00
+HFM-021   Horno Electrico                                                 1      726.91          19      13811.29              9           6542.19
+GBJ-693   Radio CD                                                        4      314.20          17       5341.40              0              0.00
+FQG-293   Rapiducha Premiun                                               9     2784.31          33      91882.23              0              0.00
+XBD-314   Cocina a gas Fassina                                            3     1444.90          10      14449.00              9          13004.10
+QIL-029   Mini componente Shake-5                                         4     2990.55          12      35886.60              9          26914.95
+ZWF-661   Impresora Led                                                   5     2731.61          19      51900.59              0              0.00
+QHC-492   Terma Solucion                                                  9     1907.23          32      61031.36              0              0.00
+XLF-273   Centro de Lavado a Gas                                          9     2371.95          39      92506.05              0              0.00
+XOA-735   Congeladora Vertical 392 Lts.                                   4     2708.07          10      27080.70              8          21664.56
+FLW-631   Radio Reloj Despertador                                         1      819.04           2       1638.08              0              0.00
+ZEX-027   Tablet Xperia Z                                                 6     3843.75          28     107625.00              0              0.00
+QJO-060   Televisor LED FULL HD                                           0     2704.14           1       2704.14              0              0.00
+GXF-122   Televisor Ultra HDTV                                            5     1110.16          18      19982.88              0              0.00
+QFP-254   Calentador electrico instantaneo                                4      180.65          39       7045.35             17           3071.05
+DUG-251   Cocina a gas FFG3047SL                                          6     1597.96          22      35155.12              0              0.00
+III-576   Campana Extractora Venus Plus                                   9     1077.65          34      36640.10              0              0.00
+IHG-413   Parlant Y pedestal PAM-83                                       4      317.70          12       3812.40              0              0.00
+QQB-968   Refrigeradora 484 litros                                        0     1452.92           0          0.00              0              0.00

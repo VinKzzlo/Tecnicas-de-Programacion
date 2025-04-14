@@ -1,0 +1,554 @@
+                                            EMPRESA DE SALUD S. A.
+===============================================================================================================
+                                     DETALLE DE CITAS MEDICAS POR PACIENTE
+===============================================================================================================
+PACIENTE : 61061535 - ROCIO YOLANDA ACUNA YINO                Anio de nacimiento: 2015    %Descuento:   2.60%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+02/08/2023   02:53:35  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+15/12/2023   01:12:27  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+20/08/2023   00:52:24  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+18/08/2023   02:01:01  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   00:09:31  PACIENTE : 57182371 - GONZALO  VEGA MUNOZ                     Anio de nacimiento: 1955    %Descuento:  35.11%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+05/04/2024   02:55:12  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/10/2023   00:39:14  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+21/11/2023   01:27:24  PACIENTE : 52313890 - EVERT  FIGUEROA COLLADO                 Anio de nacimiento: 1986    %Descuento:  12.96%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/11/2023   00:16:35  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/08/2023   01:20:26  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/08/2023   01:47:44  PACIENTE : 68114999 - MARIA HELI ARROYO GORDILLO              Anio de nacimiento: 1955    %Descuento:  24.26%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+19/08/2023   02:20:37  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/08/2023   02:13:44  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/08/2023   02:03:24  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+25/10/2023   02:16:45  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/09/2023   00:00:43  PACIENTE : 93961840 - MARIA MADELEINE SOLIS NARVAEZ           Anio de nacimiento: 1985    %Descuento:  15.57%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/09/2023   01:06:04  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   00:55:31  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+02/10/2023   02:13:26  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/08/2023   01:59:49  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/10/2023   02:27:13  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+13/11/2023   00:18:00  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+13/08/2023   00:40:30  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/02/2024   01:34:09  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/09/2023   02:59:13  PACIENTE : 31284904 - MAGALI SILVANA DIAZ ANTEZANO            Anio de nacimiento: 1957    %Descuento:  85.19%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/03/2024   01:34:29  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/08/2023   01:26:33  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/08/2023   00:33:13  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/11/2023   02:10:07  PACIENTE : 43704548 - LOURDES DIANA SUELDO MARTINEZ           Anio de nacimiento: 1993    %Descuento:  84.78%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/01/2024   00:27:50  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/09/2023   01:09:01  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/08/2023   01:29:19  PACIENTE : 86988155 - MILAGROS NATALIA BACA CAMACHO           Anio de nacimiento: 2024    %Descuento:  21.32%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/09/2023   01:02:51  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/09/2023   02:54:52  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/12/2023   01:46:40  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+22/11/2023   01:51:56  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+13/08/2023   00:35:16  PACIENTE : 54149342 - SANDRO ARTURO PISCOYA LEE               Anio de nacimiento: 1978    %Descuento:  62.10%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+20/08/2023   02:37:51  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/08/2023   02:16:32  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+11/03/2024   00:08:31  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/08/2023   00:11:54  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/03/2024   00:18:46  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+30/08/2023   02:28:39  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/03/2024   00:21:21  PACIENTE : 34571095 - JOHAN  CHAVEZ BERROCAL                  Anio de nacimiento: 1961    %Descuento:  34.67%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/04/2024   00:39:06  PACIENTE : 62287143 - JOSE ROLANDO CERNA HIJAR                Anio de nacimiento: 2017    %Descuento:  15.02%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/08/2023   02:02:07  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/09/2023   01:55:35  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/11/2023   00:06:41  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+11/03/2024   00:56:34  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+12/02/2024   00:50:53  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+18/08/2023   00:22:56  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+20/10/2023   00:01:03  PACIENTE : 94683380 - ENRIQUE JORGE DURAND VALVERDE           Anio de nacimiento: 1985    %Descuento:  58.66%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/09/2023   01:30:38  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/08/2023   00:56:20  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/09/2023   02:43:42  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/02/2024   00:00:50  PACIENTE : 93231760 - JAVIER DANIEL AURIS ZIMIC               Anio de nacimiento: 1996    %Descuento:  22.25%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/10/2023   02:16:32  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/03/2024   02:19:13  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/03/2024   02:35:54  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/08/2023   01:39:49  PACIENTE : 35606314 - MARTIN JUVENAL VILLA SEDANO             Anio de nacimiento: 1954    %Descuento:  70.47%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/04/2024   01:06:22  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+02/04/2024   00:57:32  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/01/2024   01:07:32  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+11/01/2024   02:49:23  PACIENTE : 59561864 - EDWARD  REYES TANG                      Anio de nacimiento: 2019    %Descuento:  11.25%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/08/2023   01:16:21  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/12/2023   01:33:25  PACIENTE : 51465986 - EMIGDIO FRANCISCO ESCALANTE ESPINO      Anio de nacimiento: 1971    %Descuento:   7.80%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+05/08/2023   00:44:14  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+15/12/2023   00:35:19  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/09/2023   00:54:23  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/08/2023   00:20:21  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/08/2023   01:04:55  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+22/10/2023   02:06:15  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/03/2024   01:55:55  PACIENTE : 66039166 - CAROLA TATIANA LOYOLA CASANOVA          Anio de nacimiento: 2018    %Descuento:  48.69%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+25/08/2023   00:43:49  PACIENTE : 32538825 - ELIA YOLANDA SEDANO RETAMOSO            Anio de nacimiento: 1982    %Descuento:  83.54%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   00:39:43  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/03/2024   00:07:26  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+18/11/2023   00:34:01  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/09/2023   01:37:21  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+20/08/2023   01:14:02  PACIENTE : 36934113 - HELI  CORONEL CHUMPITAZ                 Anio de nacimiento: 1989    %Descuento:  85.27%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/09/2023   00:11:34  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   00:41:08  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/11/2023   00:11:28  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/08/2023   01:29:29  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+30/10/2023   01:47:31  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/12/2023   01:15:37  PACIENTE : 20371464 - JORGE  ALFARO AYALA                     Anio de nacimiento: 1996    %Descuento:  42.96%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+28/08/2023   00:30:19  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/04/2024   02:43:59  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/03/2024   02:51:48  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/10/2023   01:37:08  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/08/2023   02:36:31  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+30/08/2023   00:24:36  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+13/09/2023   01:47:09  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+12/08/2023   00:01:39  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/11/2023   02:52:08  PACIENTE : 12484697 - FRANCISCO  ARANA RONDON                 Anio de nacimiento: 1959    %Descuento:  44.25%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/09/2023   02:30:25  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+12/08/2023   00:47:03  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+13/09/2023   02:45:29  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+10/08/2023   01:11:24  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/01/2024   00:29:06  PACIENTE : 72973662 - MADELEINE  SHIRAKAWA MIRANDA            Anio de nacimiento: 2009    %Descuento:   4.87%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/02/2024   00:37:58  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+19/08/2023   01:07:55  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/12/2023   00:36:50  PACIENTE : 45914393 - FELICITA  VILLEGAS LEIVA                Anio de nacimiento: 1978    %Descuento:   5.05%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+21/08/2023   02:26:47  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+19/08/2023   01:21:26  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+24/01/2024   02:26:38  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+20/12/2023   02:15:16  PACIENTE : 80694546 - MARITZA  CARBAJAL SALAMANCA             Anio de nacimiento: 1966    %Descuento:   4.19%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/04/2024   02:48:39  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+02/08/2023   00:03:15  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   02:38:55  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+30/08/2023   02:02:26  PACIENTE : 51642949 - JUAN  PRADO VERA                        Anio de nacimiento: 1979    %Descuento:  27.79%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/03/2024   00:48:21  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/02/2024   02:03:23  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+12/02/2024   02:32:48  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/11/2023   00:11:07  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+18/12/2023   00:39:10  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/02/2024   00:57:03  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/08/2023   01:22:29  PACIENTE : 75100362 - ROBERTO  INFANTES HERNANDEZ             Anio de nacimiento: 1949    %Descuento:   6.22%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+30/08/2023   01:57:05  PACIENTE : 45201670 - WILVER ALFONSO RIVERO CORTEZ            Anio de nacimiento: 1991    %Descuento:  84.79%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+21/08/2023   00:03:16  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/03/2024   01:08:04  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/08/2023   00:54:20  PACIENTE : 90367684 - ROLANDO  SOLIS CHUNG                    Anio de nacimiento: 1957    %Descuento:  25.37%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/11/2023   00:53:29  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/10/2023   01:59:23  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/08/2023   01:16:29  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/03/2024   00:48:34  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/03/2024   02:18:55  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/09/2023   02:21:29  PACIENTE : 35852072 - ELOY JAIME ORTEGA LANDEO                Anio de nacimiento: 1981    %Descuento:  44.29%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/01/2024   02:10:35  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/12/2023   01:10:53  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/04/2024   01:43:55  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/03/2024   02:47:35  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+19/08/2023   02:08:33  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/12/2023   00:42:08  PACIENTE : 13731806 - ALBERTO  DE LA HAZA CABRERA             Anio de nacimiento: 2018    %Descuento:  26.18%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+24/08/2023   02:12:47  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/11/2023   01:58:16  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+08/11/2023   00:00:56  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+08/08/2023   02:42:17  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+08/08/2023   01:50:14  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+11/01/2024   01:08:57  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+24/08/2023   01:21:10  PACIENTE : 22598563 - MADELEINE YLIANA MIYAKE MEREL           Anio de nacimiento: 2024    %Descuento:  81.22%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+08/11/2023   02:06:54  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+10/08/2023   01:39:21  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   00:13:18  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   00:36:45  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+28/02/2024   01:42:44  PACIENTE : 66091742 - ERICKA VICTORIA JUSTINO FORZANI         Anio de nacimiento: 1998    %Descuento:  35.49%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+23/09/2023   00:44:03  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/08/2023   01:04:58  PACIENTE : 54815159 - MILAGROS  VILCARA GAVIDIA               Anio de nacimiento: 1970    %Descuento:  52.58%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/10/2023   01:56:54  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+23/02/2024   01:34:06  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+12/02/2024   00:43:13  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   02:45:57  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/03/2024   02:46:25  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+22/11/2023   00:57:27  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/08/2023   01:08:46  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/09/2023   02:10:03  PACIENTE : 81647285 - EDGARD HENRY VELASQUEZ HUAYANAY         Anio de nacimiento: 1961    %Descuento:  24.13%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/08/2023   00:20:51  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/04/2024   00:19:53  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/01/2024   01:53:42  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/03/2024   01:50:41  PACIENTE : 41964357 - CHRISTIAN  PAREDES PATINO               Anio de nacimiento: 1955    %Descuento:  58.30%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/03/2024   01:38:57  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/08/2023   01:58:29  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/09/2023   00:38:44  PACIENTE : 37282858 - BEATRIZ  HENRIQUEZ ESPINO               Anio de nacimiento: 2011    %Descuento:  79.54%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+11/01/2024   02:42:37  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   02:22:09  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/02/2024   00:11:38  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+13/09/2023   02:34:07  PACIENTE : 17299012 - ANNIE OFELIA ASMAD ACUNA                Anio de nacimiento: 2008    %Descuento:  29.98%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/10/2023   00:56:43  PACIENTE : 15290194 - ROLANDO  CASTRO SUAREZ                  Anio de nacimiento: 1988    %Descuento:  88.17%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+18/08/2023   01:40:50  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+05/04/2024   00:14:35  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/09/2023   02:43:33  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/04/2024   00:36:34  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/02/2024   01:52:02  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/08/2023   00:23:53  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/08/2023   01:15:17  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   02:06:02  PACIENTE : 68269451 - ANTONIO  SUELDO RUIZ                    Anio de nacimiento: 1947    %Descuento:  77.30%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/08/2023   02:21:28  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+18/08/2023   02:10:02  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+25/08/2023   00:01:40  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/08/2023   00:49:17  PACIENTE : 30246960 - VIRGINIA IRMA BENAVENTE AYALA           Anio de nacimiento: 1947    %Descuento:   4.44%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/11/2023   02:36:07  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   00:11:03  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/09/2023   02:52:38  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/09/2023   00:16:02  PACIENTE : 22679759 - RONAL  CORTEZ MERCADO                   Anio de nacimiento: 1968    %Descuento:   0.00%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/03/2024   02:45:07  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+21/01/2024   02:08:46  PACIENTE : 51873364 - ALEXANDER  ZARATE PEREZ                 Anio de nacimiento: 1985    %Descuento:   9.49%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+22/10/2023   00:40:01  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/12/2023   00:04:45  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/08/2023   01:34:59  PACIENTE : 62126128 - RICHARD SANDRO PEREZ FARFAN             Anio de nacimiento: 1974    %Descuento:  22.47%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/02/2024   02:38:45  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/08/2023   00:56:17  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+28/02/2024   01:10:00  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/08/2023   00:19:25  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/08/2023   01:51:38  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/08/2023   02:06:42  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/10/2023   02:30:12  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/08/2023   00:33:08  PACIENTE : 53420926 - CARMELA TERESA VEGA VILCARA             Anio de nacimiento: 1946    %Descuento:  39.11%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/08/2023   00:50:31  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/08/2023   02:43:50  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+22/12/2023   01:49:03  PACIENTE : 93282118 - ANGEL  SHIRAKAWA ORTEGA                 Anio de nacimiento: 1960    %Descuento:  63.25%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/03/2024   01:31:34  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/08/2023   01:41:51  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/10/2023   00:41:12  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+30/08/2023   00:45:09  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+19/09/2023   02:28:01  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   01:58:18  PACIENTE : 71422479 - ANNIE LOURDES MEREL SALAZAR             Anio de nacimiento: 1994    %Descuento:  79.07%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/08/2023   02:29:44  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+23/09/2023   02:21:30  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+22/08/2023   00:39:47  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+19/08/2023   02:51:48  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/10/2023   02:06:54  PACIENTE : 14956687 - GUILLERMO EDRIC CABRERA CANALES         Anio de nacimiento: 1951    %Descuento:  28.09%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+21/08/2023   01:41:48  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/04/2024   00:00:18  PACIENTE : 35347567 - MARIBEL  VIZCARDO SINCHE                Anio de nacimiento: 2009    %Descuento:  72.10%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+23/08/2023   01:17:14  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/04/2024   02:02:13  PACIENTE : 28992638 - ALEX MARTIN VASQUEZ PAZ                 Anio de nacimiento: 2016    %Descuento:   6.95%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/08/2023   01:17:26  PACIENTE : 85395219 - INES ADRIA ESCALANTE ROJAS              Anio de nacimiento: 1966    %Descuento:  29.81%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/01/2024   02:10:43  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/01/2024   00:06:15  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/08/2023   00:37:57  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/12/2023   00:27:51  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/02/2024   01:27:28  PACIENTE : 58643376 - ANNIE  MONTERO MONTERO                  Anio de nacimiento: 2008    %Descuento:  20.23%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/08/2023   00:27:14  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+02/03/2024   02:54:40  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/08/2023   02:25:05  PACIENTE : 93939698 - ALONSO  FLORENCIO CORONADO              Anio de nacimiento: 1993    %Descuento:  14.49%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+15/09/2023   00:23:00  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/04/2024   01:12:26  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/08/2023   02:49:05  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/11/2023   00:03:46  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/08/2023   02:32:14  PACIENTE : 63640178 - WILLIAMS  JUSTINO CRUZ                  Anio de nacimiento: 2006    %Descuento:  11.46%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/08/2023   01:17:37  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/10/2023   01:49:59  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/01/2024   02:49:49  PACIENTE : 99891737 - ALONSO  FORZANI CARO                    Anio de nacimiento: 1945    %Descuento:   0.00%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/12/2023   01:31:20  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/03/2024   00:34:37  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+15/08/2023   02:19:42  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/04/2024   02:39:09  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/09/2023   00:46:09  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+02/04/2024   00:47:39  PACIENTE : 77440060 - ALEX  HENRIQUEZ PORTUGAL                Anio de nacimiento: 2011    %Descuento:  42.13%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+22/10/2023   01:11:50  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+05/04/2024   00:56:33  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/08/2023   00:28:16  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+20/08/2023   01:33:43  PACIENTE : 77324146 - DAVID EDRIC CERNA IPARRAGUIRRE          Anio de nacimiento: 1981    %Descuento:  23.10%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/12/2023   01:01:29  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+25/10/2023   00:01:07  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/12/2023   00:28:36  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+22/11/2023   00:18:32  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/03/2024   01:04:37  PACIENTE : 34697743 - CARLOS JULIAN PRADO VERGEL              Anio de nacimiento: 2000    %Descuento:  53.14%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/09/2023   01:34:46  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/08/2023   00:58:09  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+05/08/2023   02:41:11  PACIENTE : 65912822 - WALDEMAR EDGARD DURAND MEZA             Anio de nacimiento: 1978    %Descuento:  77.02%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/08/2023   00:03:37  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/01/2024   01:54:21  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/03/2024   02:19:51  PACIENTE : 91187814 - JESUS RAFAEL NARVAEZ CASTILLO           Anio de nacimiento: 2017    %Descuento:  59.80%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/08/2023   02:38:53  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/08/2023   01:09:08  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+15/10/2023   00:03:56  PACIENTE : 49357767 - DELIA  LOZADA FORZANI                   Anio de nacimiento: 2017    %Descuento:  77.12%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+11/03/2024   00:59:55  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/08/2023   01:16:18  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+02/10/2023   01:11:18  PACIENTE : 92275859 - IRMA LOURDES CORRALES TSUKAZAN          Anio de nacimiento: 1963    %Descuento:  38.99%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+02/08/2023   01:40:34  PACIENTE : 27709566 - LOURDES SONIA SOMA PINTO                Anio de nacimiento: 1969    %Descuento:  22.82%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+27/03/2024   02:59:22  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+17/03/2024   00:25:58  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+23/08/2023   01:56:32  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/12/2023   01:26:00  PACIENTE : 95656771 - FELICITA VALENTINA LOZADA ARGUEDAS      Anio de nacimiento: 1952    %Descuento:  64.08%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+06/02/2024   01:45:57  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+03/08/2023   01:09:39  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+24/01/2024   02:31:46  PACIENTE : 81539774 - VIRGINIA MARTHA SALAMANCA VEGA          Anio de nacimiento: 2000    %Descuento:  76.71%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+04/10/2023   01:09:46  PACIENTE : 72330000 - INES  SAM YALLICO                       Anio de nacimiento: 1951    %Descuento:   2.07%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+29/03/2024   02:47:28  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/10/2023   00:01:59  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/02/2024   02:35:50  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/09/2023   02:11:52  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+09/08/2023   01:00:41  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+26/08/2023   02:52:00  PACIENTE : 36471787 - TERESA DELIA ANTEZANO SEGURA            Anio de nacimiento: 1972    %Descuento:  65.08%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/01/2024   00:26:03  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/08/2023   02:27:02  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+02/02/2024   00:17:14  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+02/04/2024   02:36:01  PACIENTE : 59596317 - ADRIA  SUELDO SEDANO                    Anio de nacimiento: 2017    %Descuento:  16.88%
+---------------------------------------------------------------------------------------------------------------
+CITAS:
+---------------------------------------------------------------------------------------------------------------
+Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+14/12/2023   02:54:26  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+05/04/2024   00:32:37  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+01/09/2023   02:08:28  Fecha        Duracion     Medico                                  Especialidad        Pago por cita       
+16/12/2023   00:59:18  

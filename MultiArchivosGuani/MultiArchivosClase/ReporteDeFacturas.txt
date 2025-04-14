@@ -1,0 +1,132 @@
+Factura No.:      10001    Fecha:  10/03/2020
+Cliente  DNI:  85054426    Nombre: Alamo Pairazaman Miguel Roberto
+
+Factura No.:      10002    Fecha:  10/03/2020
+Cliente  DNI:  81092545    Nombre: Cabrera Canales Guillermo Edric
+
+Factura No.:      10003    Fecha:  10/03/2020
+Cliente  DNI:  82140321    Nombre: Juan Perez
+
+Factura No.:      10004    Fecha:  10/03/2020
+Cliente  DNI:  14475098    Nombre: Vega Munoz Gonzalo
+
+Factura No.:      10005    Fecha:  13/03/2020
+Cliente  DNI:  83516690    Nombre: Moya Aranda Johnny
+
+Factura No.:      10006    Fecha:  14/03/2020
+Cliente  DNI:  91425066    Nombre: Gavidia Mendoza Ronald Johnny
+
+Factura No.:      10007    Fecha:  14/03/2020
+Cliente  DNI:  82140321    Nombre: Juan Perez
+
+Factura No.:      10008    Fecha:  16/03/2020
+Cliente  DNI:  83516690    Nombre: Moya Aranda Johnny
+
+Factura No.:      10009    Fecha:  17/03/2020
+Cliente  DNI:  14475098    Nombre: Vega Munoz Gonzalo
+
+Factura No.:      10010    Fecha:  17/03/2020
+Cliente  DNI:  17000095    Nombre: Hijar Pairazaman Jenny Delicia
+
+Factura No.:      10011    Fecha:  17/03/2020
+Cliente  DNI:  79402297    Nombre: Coronado Figueroa Johan
+
+Factura No.:      10012    Fecha:  19/03/2020
+Cliente  DNI:  85054426    Nombre: Alamo Pairazaman Miguel Roberto
+
+Factura No.:      10013    Fecha:  22/03/2020
+Cliente  DNI:  85054426    Nombre: Alamo Pairazaman Miguel Roberto
+
+Factura No.:      10014    Fecha:  25/03/2020
+Cliente  DNI:  79402297    Nombre: Coronado Figueroa Johan
+
+Factura No.:      10015    Fecha:  27/03/2020
+Cliente  DNI:  67255116    Nombre: Pasquel Quio Surami Janet
+
+Factura No.:      10016    Fecha:  30/03/2020
+Cliente  DNI:  88626282    Nombre: Auris Zimic Javier Daniel
+
+Factura No.:      10017    Fecha:  31/03/2020
+Cliente  DNI:  81092545    Nombre: Cabrera Canales Guillermo Edric
+
+Factura No.:      10018    Fecha:  03/04/2020
+Cliente  DNI:  81092545    Nombre: Cabrera Canales Guillermo Edric
+
+Factura No.:      10019    Fecha:  03/04/2020
+Cliente  DNI:  82140321    Nombre: Juan Perez
+
+Factura No.:      10020    Fecha:  04/04/2020
+Cliente  DNI:  81092545    Nombre: Cabrera Canales Guillermo Edric
+
+Factura No.:      10021    Fecha:  05/04/2020
+Cliente  DNI:  82140321    Nombre: Juan Perez
+
+Factura No.:      10022    Fecha:  08/04/2020
+Cliente  DNI:  34141891    Nombre: Landeo Sueldo Adolfo
+
+Factura No.:      10023    Fecha:  11/04/2020
+Cliente  DNI:  88626282    Nombre: Auris Zimic Javier Daniel
+
+Factura No.:      10024    Fecha:  11/04/2020
+Cliente  DNI:  83516690    Nombre: Moya Aranda Johnny
+
+Factura No.:      10025    Fecha:  11/04/2020
+Cliente  DNI:  82140321    Nombre: Juan Perez
+
+Factura No.:      10026    Fecha:  11/04/2020
+Cliente  DNI:  85054426    Nombre: Alamo Pairazaman Miguel Roberto
+
+Factura No.:      10027    Fecha:  13/04/2020
+Cliente  DNI:  34141891    Nombre: Landeo Sueldo Adolfo
+
+Factura No.:      10028    Fecha:  16/04/2020
+Cliente  DNI:  79402297    Nombre: Coronado Figueroa Johan
+
+Factura No.:      10029    Fecha:  16/04/2020
+Cliente  DNI:  81092545    Nombre: Cabrera Canales Guillermo Edric
+
+Factura No.:      10030    Fecha:  17/04/2020
+Cliente  DNI:  85054426    Nombre: Alamo Pairazaman Miguel Roberto
+
+Factura No.:      10031    Fecha:  18/04/2020
+Cliente  DNI:  82140321    Nombre: Juan Perez
+
+Factura No.:      10032    Fecha:  20/04/2020
+Cliente  DNI:  83516690    Nombre: Moya Aranda Johnny
+
+Factura No.:      10033    Fecha:  20/04/2020
+Cliente  DNI:  67255116    Nombre: Pasquel Quio Surami Janet
+
+Factura No.:      10034    Fecha:  20/04/2020
+Cliente  DNI:  81092545    Nombre: Cabrera Canales Guillermo Edric
+
+Factura No.:      10035    Fecha:  23/04/2020
+Cliente  DNI:  21000270    Nombre: Justino Cruz Williams
+
+Factura No.:      10036    Fecha:  23/04/2020
+Cliente  DNI:  21000270    Nombre: Justino Cruz Williams
+
+Factura No.:      10037    Fecha:  24/04/2020
+Cliente  DNI:  91425066    Nombre: Gavidia Mendoza Ronald Johnny
+
+Factura No.:      10038    Fecha:  24/04/2020
+Cliente  DNI:  79402297    Nombre: Coronado Figueroa Johan
+
+Factura No.:      10039    Fecha:  24/04/2020
+Cliente  DNI:  88626282    Nombre: Auris Zimic Javier Daniel
+
+Factura No.:      10040    Fecha:  25/04/2020
+Cliente  DNI:  83516690    Nombre: Moya Aranda Johnny
+
+Factura No.:      10041    Fecha:  28/04/2020
+Cliente  DNI:  88626282    Nombre: Auris Zimic Javier Daniel
+
+Factura No.:      10042    Fecha:  28/04/2020
+Cliente  DNI:  34141891    Nombre: Landeo Sueldo Adolfo
+
+Factura No.:      10043    Fecha:  29/04/2020
+Cliente  DNI:  67255116    Nombre: Pasquel Quio Surami Janet
+
+Factura No.:      10044    Fecha:  29/04/2020
+Cliente  DNI:  17000095    Nombre: Hijar Pairazaman Jenny Delicia
+

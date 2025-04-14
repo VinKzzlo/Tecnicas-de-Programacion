@@ -1,0 +1,43 @@
+                                                INSTITUCION EDUCATIVA_TP
+                                          DETALLE DE PAGOS REALIZADO POR CICLO
+                                                    CICLO: 2022-2
+========================================================================================================================
+No.     CURSO                                                       CREDITOS      ALUMNOS.MAT        MONTO PAGADO
+------------------------------------------------------------------------------------------------------------------------
+01)  481218 - FISICA MODERNA                                          5.25            2                3872.30
+02)  231206 - TERMODINAMICA 1                                         2.75            3                2814.90
+03)  109248 - SISTEMAS DE INFORMACION 1                               3.25            3                3352.02
+04)  481247 - OPTICA Y FOTONICA                                       3.75            3                5139.86
+05)  231289 - TURBOMAQUINAS Y MAQUINAS DE DESPLAZAMIENTO POSITIVO     3.00            4                5846.37
+06)  481208 - TEMAS DE FISICA GENERAL                                 3.75            4                5502.60
+07)  109238 - REDES DE COMPUTADORAS                                   5.00            4                6284.55
+08)  231270 - PROCESOS DE MANUFACTURA                                 5.75            5               11292.14
+09)  109282 - LENGUAJE DE PROGRAMACION 2                              4.25            5                9531.01
+10)  481203 - FISICA 4                                                4.25            5                7799.01
+11)  231269 - LABORATORIO DE TERMODINAMICA Y FLUIDOS                  4.75            6               10085.53
+12)  109245 - INGENIERIA DE SOFTWARE                                  4.25            6               11069.97
+13)  109263 - ALGORITMIA                                              4.25            6                7929.23
+14)  481229 - TRABAJO DE INVESTIGACION                                3.75            7                9341.14
+15)  481230 - TEORIA DE CAMPOS ELECTROMAGNETICOS                      3.75            7                9626.40
+16)  375241 - METODOS NUMERICOS EN INGENIERIA                         5.75            7               15500.97
+17)  231209 - MECANICA DE FLUIDOS                                     3.75            7               10919.55
+18)  231292 - INTRODUCCION AL DISENO DE MAQUINAS                      2.75            7                7225.73
+19)  375218 - ECUACIONES DIFERENCIALES APLICADAS                      3.25            7                7196.80
+20)  109246 - BASES DE DATOS                                          4.75            7               11193.80
+21)  109239 - SISTEMAS OPERATIVOS                                     4.25            8               10773.71
+22)  481219 - SISTEMAS ELECTROMAGNETICOS Y OPTOELECTRONICOS           3.25            8                9519.67
+23)  231373 - METROLOGIA                                              2.75            8                8627.88
+24)  481248 - MECANICA CLASICA 1                                      4.00            8                9822.00
+25)  109281 - LENGUAJE DE PROGRAMACION 1                              3.25            8                9297.76
+26)  481220 - TECNICAS COMPUTACIONALES EN FISICA                      3.75            9               11603.02
+27)  109220 - FUNDAMENTOS DE PROGRAMACION                             3.25            9               12235.76
+28)  231286 - TRANSFERENCIA DE CALOR                                  3.25           10               10574.10
+29)  109250 - SISTEMAS DE INFORMACION 2                               4.75           10               14167.44
+30)  375781 - MATEMATICA COMPUTACIONAL PARA CONTROL                   4.75           10               18406.16
+31)  481227 - PARTICULAS ELEMENTALES                                  4.00           11               16948.32
+32)  231283 - LABORATORIO DE INTRODUCCION AL DISENO DE MAQUINAS       3.75           11               13886.06
+33)  375219 - HERRAMIENTAS MATEMATICAS                                2.25           11                7858.10
+34)  481239 - ESTADO SOLIDO                                           4.25           12               19893.57
+------------------------------------------------------------------------------------------------------------------------
+MONTO TOTAL PAGADO:                                                                                  335137.43
+========================================================================================================================

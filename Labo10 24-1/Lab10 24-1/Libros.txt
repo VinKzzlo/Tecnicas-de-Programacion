@@ -1,0 +1,269 @@
+LIBROS
+  Codigo    Titulo                                                                          Autor                                   Precio    Suma Calificaciones Vendidos  Ranking   
+  SFR1226   Ana la de las tejas verdes                                                      Lucy Maud Montgomery                    186.05    91                  1         4         
+  QHZ8547   Adios a las armas                                                               Hernest Hemingway                       192.79    89                  1         4         
+  CMP1150   Don Quijote de la Mancha                                                        Miguel de Cervantes                     359.19    159                 2         4         
+  CKR6798   El lobo estepario                                                               Hermann Hesse                           53.54     77                  1         4         
+  VOI0019   El evangelio segun Jesucristo                                                   Jose Saramago                           344.64    79                  1         4         
+  JZU0977   El alquimista                                                                   Paulo Coelho                            50.93     82                  1         4         
+  RLQ7170   El tango de la guardia vieja                                                    Arturo Perez-Reverte                    295.67    171                 2         4         
+  MBB0685   El capitan Alatriste                                                            Arturo Perez-Reverte                    253.85    97                  1         4         
+  KLV1872   Orgullo y prejuicio                                                             Jane Austen                             166.42    98                  1         4         
+  YKQ9278   Alicia en el pais de las maravillas                                             Lewis Carroll                           104.54    84                  1         4         
+  LDL2628   Harry Potter y el caliz de fuego (Harry Potter 4)                               J.K. Rowling                            326.78    90                  1         4         
+  IMC3155   Los pilares de la tierra                                                        Ken Follett                             221.79    87                  1         4         
+  VFI8064   A sangre fria                                                                   Truman Capote                           269.17    172                 2         4         
+  ELC8965   Las aventuras de Rocambole                                                      Ponson Du Terrail                       144.29    78                  1         4         
+  QYH7021   Historia del siglo XX: 1914-1991                                                Eric Hobsbawm                           59.37     90                  1         4         
+  RII8346   Las dos Dianas                                                                  Alejandro Dumas                         158.65    92                  1         4         
+  EDQ0577   Las aventuras de Pinocho                                                        Carlo Collodi                           82.97     91                  1         4         
+  ZQD4253   Harry Potter y el misterio del principe ( Harry Potter 6)                       J. K. Rowling                           117.19    75                  1         4         
+  BSX2922   Una historia de Espania                                                         Arturo Perez-Reverte                    141.33    97                  1         4         
+  JJV7549   Los hombres que no amaban a las mujeres                                         Stieg Larsson                           132.73    84                  1         4         
+  JSM8271   La Odisea                                                                       Homero                                  304.10    235                 3         4         
+  CJN4376   Harry Potter y la camara secreta (Harry Potter 2)                               J. K. Rowling                           20.25     78                  1         4         
+  XJT3661   Las aventuras de Tom Sawye                                                      Mark Twain                              102.81    91                  1         4         
+  ULM8751   La sumisa                                                                       Fiodor Dostoyevski                      259.84    99                  1         4         
+  VDL9379   Los juegos del hambre                                                           Suzanne Collins                         308.73    93                  1         4         
+  ZLE2920   Historia de la Edad Media                                                       Indro Montanelli                        222.63    175                 2         4         
+  NFP3266   Sabotaje                                                                        Arturo Perez-Reverte                    101.02    162                 2         4         
+  DPZ8059   El hombre que pudo reinar                                                       Rudyard Kipling                         326.37    91                  1         4         
+  CST1133   Inferno                                                                         Dan Brown                               278.38    160                 2         4         
+  EJE8138   Yawar fiesta                                                                    Jose Maria Arguedas                     336.76    170                 2         4         
+  KVL6246   La edad media - barbaros - cristianos y musulmanes                              Umberto Eco                             38.27     194                 2         4         
+  NEO9165   Emperador de Roma                                                               Mary Beard                              41.71     92                  1         4         
+  MWB2923   Mudlarking                                                                      Lara Maiklem                            281.28    60                  1         3         
+  MEH2993   Hijos de un tiempo perdido                                                      Jose Maria Bermudez de Castro           125.48    58                  1         3         
+  OBD2849   El invierno del mundo                                                           Ken Follett                             170.91    58                  1         3         
+  BHD6079   Zorba el griego                                                                 Nikos Kazantzakis                       173.67    74                  1         3         
+  HGN9910   La ciudad y los perros                                                          Mario Vargas Llosa                      190.86    120                 2         3         
+  IPE3429   Sidi                                                                            Arturo Perez-Reverte                    360.75    70                  1         3         
+  LRV5687   La guerra del fin del mundo                                                     Mario Vargas Llosa                      164.06    62                  1         3         
+  JNC0786   Mi isla                                                                         Elisabet Benavent                       24.53     54                  1         3         
+  ECT0289   Juego de tronos                                                                 George R.R.Martin                       235.18    63                  1         3         
+  OQK1590   Cometas en el cielo                                                             Khaled Hosseini                         369.96    61                  1         3         
+  KGO1734   Una historia del mundo                                                          Andrew Marr                             256.90    161                 3         3         
+  EEJ4830   El Principito                                                                   Antoine de Saint-Exupery                314.97    114                 2         3         
+  FWP8469   Justine o los infortunios                                                       Charles Dickens                         132.76    56                  1         3         
+  FBO8724   El pendulo de Foucault                                                          Umberto Eco                             78.33     52                  1         3         
+  TVR7016   El corazon de las tinieblas                                                     Joseph Conrad                           254.93    71                  1         3         
+  ZOY6470   El viejo y el mar                                                               Hernest Hemingway                       88.69     107                 2         3         
+  CLG5566   Pantaleon y las visitadoras                                                     Mario Vargas Llosa                      253.85    65                  1         3         
+  IUI3314   El coronel no tiene quien le escriba                                            Gabriel Garcia Marquez                  103.39    58                  1         3         
+  ZYF6683   Harry Potter y la Orden del Fenix ( Harry Potter 5)                             J. K. Rowling                           166.96    111                 2         3         
+  HPP3360   El pintor de batallas                                                           Arturo Perez-Reverte                    231.92    282                 4         3         
+  ICU6090   La fiesta del chivo                                                             Mario Vargas Llosa                      358.24    50                  1         3         
+  DDQ0721   En busca del tiempo perdido                                                     Marcel Proust                           214.57    120                 2         3         
+  ALH8812   Guerra y Paz                                                                    Leon Tolstoi                            37.06     144                 2         3         
+  WHU1288   La hija italiana                                                                Soraya Lane                             206.44    65                  1         3         
+  QKH2262   Fiesta                                                                          Hernest Hemingway                       105.11    121                 2         3         
+  QQQ4712   Nuestra Seniora de Paris                                                        Victor Hugo                             346.01    53                  1         3         
+  VPN5351   El Amante                                                                       Ana Maria Moix                          33.79     67                  1         3         
+  HWM4049   Romper el circulo                                                               Colleen Hoover                          54.57     120                 2         3         
+  SQB7146   Cronica de una muerte anunciada                                                 Gabriel Garcia Marquez                  159.23    206                 3         3         
+  HVZ1228   El husar                                                                        Arturo Perez-Reverte                    150.41    62                  1         3         
+  VFZ9435   El olor de la Edad Media                                                        Javier Traite                           302.84    299                 5         3         
+  VMW6915   Travesuras de la ninia mala                                                     Mario Vargas Llosa                      136.85    263                 4         3         
+  YJI3961   Cien anios de soledad                                                           Gabriel Garcia Marquez                  48.12     122                 2         3         
+  UXZ2187   Los 7 habitos de la gente altamente efectiva                                    Stephen R. Covey                        119.31    169                 3         3         
+  MNL3677   El Hobbit                                                                       J.R.R. Tolkien                          198.53    126                 2         3         
+  VSG3432   Bajo bandera negra                                                              David Cordingly                         56.14     266                 4         3         
+  NEW1762   Territorio comanche                                                             Arturo Perez-Reverte                    155.89    105                 2         3         
+  DEK2757   En llamas                                                                       Suzanne Collins                         337.07    160                 3         3         
+  KBF4088   Harry Potter y el prisionero de Azkaban (Harry Potter 3)                        J.K. Rowling                            269.58    67                  1         3         
+  YZV6954   Corazon de las tinieblas                                                        Joseph Conrad                           155.63    184                 3         3         
+  DVL7760   Falco                                                                           Arturo Perez-Reverte                    27.20     101                 2         3         
+  IBP7411   Nunca                                                                           Ken Follett                             109.00    61                  1         3         
+  CTW5846   El medievo cristiano                                                            Mario Merlino                           313.44    112                 2         3         
+  IMK4892   La tabla de Flandes                                                             Arturo Perez-Reverte                    62.98     183                 3         3         
+  ILG7766   Iliada                                                                          Homero                                  136.58    70                  1         3         
+  UEJ1235   Grandes esperanzas                                                              Charles Dickens                         237.49    147                 2         3         
+  UDS2730   Los Nibelungos                                                                  Anonimo                                 322.91    146                 2         3         
+  GDA4236   Gente normal                                                                    Sally Rooney                            246.62    56                  1         3         
+  BZY0235   Fausto                                                                          Johann Wolfgang Von Goethe              254.21    262                 5         3         
+  PQZ1316   La Eneida                                                                       Virgilio                                347.98    287                 5         3         
+  BXE0974   Los viajes de Gulliver                                                          Jonathan Swift                          248.60    111                 2         3         
+  KSX7995   El simbolo perdidoi                                                             Dan Brown                               58.39     104                 2         3         
+  FNM6936   Divina comedia                                                                  Dante Alighieri                         21.84     101                 2         3         
+  WYE2119   El asedio                                                                       Arturo Perez-Reverte                    227.12    150                 3         3         
+  OCI8959   David Copperfield                                                               Charles Dickens                         190.16    115                 2         3         
+  QCA9584   Dr. Jekyll y Mr. Hyde                                                           Robert Louis Stevenson                  212.16    149                 2         3         
+  WWT1581   La piel del tambor                                                              Arturo Perez-Reverte                    97.98     186                 3         3         
+  TBZ2657   Olalla                                                                          Robert Louis Stevenson                  259.74    104                 2         3         
+  IFL0150   Romeo y Julieta                                                                 William Shakespeare                     193.17    155                 3         3         
+  RSK1164   El amor en los tiempos del colera                                               Gabriel Garcia Marquez                  144.93    198                 3         3         
+  JZC7527   El tambor de hojalata                                                           Gunter Grass                            220.33    193                 3         3         
+  XTM9385   El mundo                                                                        Simon Sebag Montefiore                  155.63    29                  1         2         
+  QVX9089   Madame Bovary                                                                   Gustave Flaubert                        43.74     30                  1         2         
+  ETZ8565   Confesiones de una mascara                                                      Yukio Mishima                           339.31    33                  1         2         
+  XCC4070   El italiano                                                                     Arturo Perez-Reverte                    242.41    51                  2         2         
+  SPM4763   Eva                                                                             Arturo Perez-Reverte                    165.44    49                  1         2         
+  AGQ7769   La Flecha Negra                                                                 Robert Louis Stevenson                  241.33    49                  1         2         
+  OBH4691   Crimen y castigo                                                                Fiodor Dostoyevski                      34.78     37                  1         2         
+  IIM5175   Diamantes y pedernales                                                          Jose Maria Arguedas                     69.02     64                  2         2         
+  ILA4795   La ladrona de libros                                                            Markus ZusaK                            212.33    36                  1         2         
+  EHX6253   La isla de las tormentas                                                        Ken Follett                             185.52    39                  1         2         
+  PQB0775   El diablo de la botella y otros cuentos                                         Robert Louis Stevenson                  199.01    57                  2         2         
+  NGQ6935   La casa de los espiritus                                                        Isabel Allende                          367.20    25                  1         2         
+  IUG2294   El proceso                                                                      Franz Kafka                             44.64     63                  2         2         
+  CKC4095   El Gran Gatsby                                                                  F. Scott Fitzgerald                     126.76    132                 4         2         
+  TOJ1764   Ensayo sobre la ceguera                                                         Jose Saramago                           84.18     98                  2         2         
+  HPM0950   Fahrenheit 451                                                                  Ray Bradbury                            123.40    63                  2         2         
+  ZPD6557   El ruido y la furia                                                             William Faulkner                        324.55    43                  1         2         
+  AKU9740   Conversacion en La Catedral                                                     Mario Vargas Llosa                      225.78    35                  1         2         
+  CRR5443   Un mundo feliz                                                                  Aldous Huxley                           114.05    101                 3         2         
+  ZQY9966   El suenio del tio                                                               Fiodor Dostoyevski                      93.34     75                  2         2         
+  KTA8754   Ulises                                                                          James Joyce                             168.82    75                  2         2         
+  BDK4183   La isla del tesoro                                                              Robert Louis Stevenson                  181.62    88                  2         2         
+  UCJ9882   El reino de este mundo                                                          Alejo Carpentier                        250.08    99                  2         2         
+  USE5598   Fortaleza digitali                                                              Dan Brown                               268.95    76                  2         2         
+  HGQ0131   Odisea                                                                          Homero                                  254.38    28                  1         2         
+  EBT7258   Linea de fuego                                                                  Arturo Perez-Reverte                    215.98    145                 3         2         
+  PZP7176   La caida de los gigantes                                                        Ken Follett                             132.91    99                  2         2         
+  KWL0415   1923                                                                            Roberto Villa Garcia                    351.38    197                 4         2         
+  JXK3142   En el camino                                                                    Jack Kerouac                            170.15    199                 5         2         
+  GQC1814   Apocalipticos e integrados                                                      Umberto Eco                             158.38    32                  1         2         
+  PPI9259   Revolucion                                                                      Arturo Perez-Reverte                    120.80    97                  2         2         
+  WCZ0845   El cementerio de Praga                                                          Umberto Eco                             109.63    85                  2         2         
+  CXW5879   Los barcos se pierden en tierra                                                 Arturo Perez-Reverte                    243.00    95                  2         2         
+  NBL8415   Espania con honra                                                               Daniel Aquillue                         86.51     124                 3         2         
+  FMX8255   Las aventuras de Huckleberry Finn                                               Mark Twain                              228.56    67                  2         2         
+  JZQ8143   Suenios de robot                                                                Isaac Asimov                            356.97    129                 3         2         
+  RNG2321   El Aleph                                                                        Jorge Luis Borges                       55.75     65                  2         2         
+  RWW7975   El nombre de la rosa                                                            Umberto Eco                             164.58    183                 4         2         
+  FYV9055   Macbeth                                                                         William Shakespeare                     265.73    80                  2         2         
+  JLQ6546   El retorno del Rey                                                              J.R.R.Tolkien                           164.98    103                 3         2         
+  XIU2628   Cabo Trafalgar                                                                  Arturo Perez-Reverte                    87.23     86                  3         2         
+  BUT4998   Lolita                                                                          Vladimir Nabokov                        105.39    44                  1         2         
+  BTX3816   El jugador                                                                      Fiodor Dostoyevski                      63.36     149                 3         2         
+  CRY6839   Ricardo III                                                                     William Shakespeare                     231.85    240                 5         2         
+  EZP0333   La Reina del Sur                                                                Arturo Perez-Reverte                    91.75     92                  2         2         
+  MBQ9495   Tormenta de espadas                                                             George R.R.Martin                       179.01    95                  3         2         
+  QBL9575   Los miserables                                                                  Victor Hugo                             37.19     98                  2         2         
+  TMR5068   Los tres mosqueteros                                                            Alejandro Dumas                         55.94     41                  1         2         
+  RZX8790   El senior de las moscas                                                         William Golding                         188.11    100                 3         2         
+  MVU0233   La conspiracioni                                                                Dan Brown                               293.09    5                   1         1         
+  DDU0764   Dioses tumbas y sabios                                                          C. W. Ceram                             305.47    4                   1         1         
+  CPE5718   Paris era una fiesta                                                            Hernest Hemingway                       301.42    19                  1         1         
+  HCT8192   Diario                                                                          Ana FranK                               197.59    10                  1         1         
+  USM9579   El perfume                                                                      Patrick Suskind                         356.70    20                  1         1         
+  FWK6327   El doble                                                                        Fiodor Dostoyevski                      175.82    7                   1         1         
+  HRT0664   Los funerales de la Mama Grande                                                 Gabriel Garcia Marquez                  257.52    5                   1         1         
+  VYG3594   Los demonios                                                                    Fiodor Dostoyevski                      295.35    22                  1         1         
+  LJD9991   Baudolino                                                                       Umberto Eco                             165.58    18                  1         1         
+  UQL8643   Dracula                                                                         Bram Stoker                             143.17    17                  1         1         
+  MLC7198   Los rios profundos                                                              Jose Maria Arguedas                     306.61    23                  1         1         
+  BUY4915   La sombra del aguila                                                            Arturo Perez-Reverte                    287.75    14                  1         1         
+  RAO4129   Stalingrado                                                                     Jonathan Trigg                          112.38    21                  1         1         
+  GOG7446   El guardian entre el centeno                                                    J. D. Salinger                          282.95    24                  1         1         
+  RYI5447   El corazon es un cazador solitario                                              Carson Mccullers                        190.55    23                  1         1         
+  KPE7420   Jane Eyre                                                                       Charlotte Brontë                        279.51    8                   1         1         
+  XBC5847   Tiempos recios                                                                  Mario Vargas Llosa                      318.33    12                  1         1         
+  LJE6687   El codigo Da Vinci                                                              Dan Brown                               171.78    22                  1         1         
+  KLO8691   Catedral                                                                        Raymond Carver                          144.15    13                  1         1         
+  DVR5984   Mil soles esplendidos                                                           Khaled Hosseini                         261.65    34                  2         1         
+  HHR5161   El francotirador paciente                                                       Arturo Perez-Reverte                    42.45     4                   1         1         
+  UCA0857   SPQR: una historia de la antigua Roma                                           Mary Beard                              215.07    12                  1         1         
+  OWU1533   Cuatro principes                                                                John Julius Norwich                     114.79    23                  1         1         
+  XIU6076   Rebelion en la granja                                                           George Orwell                           149.76    43                  2         1         
+  WMN3648   Pasaje a la India                                                               E. M. Forster                           81.84     8                   1         1         
+  TAB4639   El color que cayo del cielo                                                     H. P. Lovecraft                         210.02    49                  2         1         
+  BUC5125   El faro de Stalingrado                                                          Iain MacGregor                          238.95    24                  1         1         
+  GKG6581   Hombres buenos                                                                  Arturo Perez-Reverte                    318.48    10                  1         1         
+  HSE3213   Por quien doblan las campanas                                                   Hernest Hemingway                       259.22    3                   1         1         
+  LQA8555   Rimas y leyendas                                                                Gustavo Adolfo Becquer                  347.88    22                  1         1         
+  SMI7078   Los cachorros                                                                   Mario Vargas Llosa                      30.12     24                  1         1         
+  JGG5049   El eterno marido                                                                Fiodor Dostoyevski                      295.86    22                  2         1         
+  WOF6634   El problema final                                                               Arturo Perez-Reverte                    269.66    33                  2         1         
+  WGA2754   El club Dumas                                                                   Arturo Perez-Reverte                    64.02     1                   1         1         
+  QRH6838   Las cronicas de Narnia                                                          C. S. Lewis                             332.14    50                  3         1         
+  QMI4747   La isla de los amores infinitos                                                 Daina Chaviano                          43.56     1                   1         1         
+  JEN0751   Ana Karenina                                                                    Leon Tolstoi                            102.26    5                   1         1         
+  PCS8992   Y no quedo ninguno                                                              Agatha Christie                         324.88    3                   1         1         
+  EWI3090   La seniora Dalloway                                                             Virginia Woolf                          304.25    4                   1         1         
+  WPU8819   Tristam Shandy                                                                  Laurence Sterne                         305.36    80                  4         1         
+  SFZ1256   La Iliada                                                                       Homero                                  123.04    48                  2         1         
+  GWE4133   El gato negro y otros cuentos                                                   Edgar Allan Poe                         256.69    5                   1         1         
+  JBR9372   El maestro de esgrima                                                           Arturo Perez-Reverte                    191.74    46                  2         1         
+  GUN8655   Angeles y demoniosi                                                             Dan Brown                               37.00     13                  1         1         
+  SBU9053   Tierra arrasada                                                                 Alfredo Gonzalez Ruibal                 300.68    2                   1         1         
+  SMW0186   La sombra del viento                                                            Carlos Ruiz Zafon                       214.64    22                  2         1         
+  ZAL2738   1984                                                                            George Orwell                           348.12    12                  1         1         
+  PHL4155   El idiota                                                                       Fiodor Dostoyevski                      330.10    2                   1         1         
+  DXP8640   El retrato de Dorian Gray                                                       Oscar Wilde                             73.31     0                   0         0         
+  NBE1339   Palmeras en la nieve                                                            Luz Gabas                               305.02    0                   0         0         
+  JHP0390   El conde de Montecristo                                                         Alexandre Dumas                         163.23    0                   0         0         
+  EFQ0297   Trampa 22                                                                       Joseph Heller                           325.88    0                   0         0         
+  BRG4234   La telarania de Carlota                                                         E. B. White                             32.77     0                   0         0         
+  LQL0880   Contra el fascismo                                                              Umberto Eco                             149.08    0                   0         0         
+  MSW8176   Todo se desmorona                                                               Chinua Achebe                           65.85     0                   0         0         
+  PGK5617   El Rey Lear                                                                     William Shakespeare                     331.68    0                   0         0         
+  QFG6515   El libro de la selva                                                            Rudyard Kipling                         329.44    0                   0         0         
+  TDY0497   La chica del tren                                                               Paula Hawkins                           309.91    0                   0         0         
+  WYS2674   Secuestrado                                                                     Robert Louis Stevenson                  291.94    0                   0         0         
+  THT4126   Harry Potter y las reliquias de la muerte (Harry Potter 7)                      J. K. Rowling                           165.15    0                   0         0         
+  SHF2360   Un dia de colera                                                                Arturo Perez-Reverte                    33.03     0                   0         0         
+  IGT8523   Una columna de fuego                                                            Ken Follett                             223.32    0                   0         0         
+  ETV5056   Moby Dick                                                                       Herman Melville                         287.77    0                   0         0         
+  LGB2311   Decameron                                                                       Giovanni Boccaccio                      275.02    0                   0         0         
+  DND9446   Lo que el viento se llevo                                                       Margaret Mitchell                       344.10    0                   0         0         
+  XMT1768   Los diarios de Adan y Eva                                                       Mark Twain                              345.54    0                   0         0         
+  ION3794   Crepusculo                                                                      Stephenie Meyer                         193.54    0                   0         0         
+  HDA2333   Lituma en los Andes                                                             Mario Vargas Llosa                      147.48    0                   0         0         
+  HLB4548   Frankenstein o el moderno Prometeo                                              Mary W. Shelley                         38.12     0                   0         0         
+  ZJM1292   El suenio del celta                                                             Mario Vargas Llosa                      134.67    0                   0         0         
+  BAP2859   El tunel                                                                        Ernesto Sabato                          230.23    0                   0         0         
+  GXB5722   Cumbres borrascosas                                                             Emily Brontë                            238.82    0                   0         0         
+  OUU5470   La carta esferica                                                               Arturo Perez-Reverte                    84.53     0                   0         0         
+  PWX7633   La tia Julia y el escribidor                                                    Mario Vargas Llosa                      80.65     0                   0         0         
+  DEF7625   Las uvas de la ira                                                              John SteinbecK                          251.95    0                   0         0         
+  VHK9148   Historia y cronologia del mundo                                                 Isaac Asimov                            313.39    0                   0         0         
+  DTH6788   Los perros duros no bailan                                                      Arturo Perez-Reverte                    288.31    0                   0         0         
+  MKB4184   Napoleon                                                                        Alejandro Dumas                         261.25    0                   0         0         
+  CRA4157   El forastero misterioso                                                         Mark Twain                              256.52    0                   0         0         
+  PRD1648   Relato de un naufrago                                                           Gabriel Garcia Marquez                  284.43    0                   0         0         
+  AZL1098   El extranjero                                                                   Albert Camus                            122.15    0                   0         0         
+  SBF7018   El handicap de la vida                                                          Rudyard Kipling                         186.36    0                   0         0         
+  EYV0597   Cuentos de la selva                                                             Horacio Quiroga                         161.31    0                   0         0         
+  LVP3355   Las aventuras de Sherlock Holmes                                                Arthur Conan Doyle                      152.03    0                   0         0         
+  ACM9578   Amadis de gaula                                                                 Garci Rodriguez Montalvo                299.89    0                   0         0         
+  GPH1575   La gran aventura de los griegos                                                 Javier Negrete                          149.25    0                   0         0         
+  YDK7687   El otonio del patriarca                                                         Gabriel Garcia Marquez                  368.04    0                   0         0         
+  YJE2497   Progreso del peregrino                                                          John Bunyan                             329.79    0                   0         0         
+  UFK9792   El psicoanalista                                                                John Katzenbach                         29.95     0                   0         0         
+  XRL3393   Le dedico mi silencio                                                           Mario Vargas Llosa                      24.29     0                   0         0         
+  ZNF2241   El extranio caso del Dr. Jekyll y Mr. Hyde                                      Robert Louis Stevenson                  153.78    0                   0         0         
+  JTX5687   Veinte mil leguas de viaje submarino                                            Julio Verne                             300.73    0                   0         0         
+  PWB4941   La montania magica                                                              Thomas Mann                             238.07    0                   0         0         
+  MIK5358   La transformacion del mundo                                                     Jürgen Osterhammel                      315.72    0                   0         0         
+  USK1312   Un mundo sin fin                                                                Ken Follett                             129.39    0                   0         0         
+  VFO4193   La catedral del mar                                                             Ildefonso Falcones                      330.92    0                   0         0         
+  OWO8918   Origen                                                                          Dan Brown                               213.71    0                   0         0         
+  CUV7849   Ficciones                                                                       Jorge Luis Borges                       365.83    0                   0         0         
+  DDT0017   Viaje al fin de la noche                                                        Louis Ferdinand Celine                  169.16    0                   0         0         
+  QVU3526   Vidas intrepidas                                                                Julio Albi de la Cuesta                 96.25     0                   0         0         
+  EFD3949   La divina comedia                                                               Dante Alighieri                         51.42     0                   0         0         
+  SXT1015   Mientras agonizo                                                                William Faulkner                        232.57    0                   0         0         
+  FVV9246   Matar a un ruisenior                                                            Harper Lee                              348.76    0                   0         0         
+  EBE0042   Capitanes intrepidos                                                            Rudyard Kipling                         224.31    0                   0         0         
+  VTY5195   Un asunto de honor                                                              Arturo Perez-Reverte                    108.29    0                   0         0         
+  FKK6524   Los renglones torcidos de Dios                                                  Torcuato Luca de Tena                   180.90    0                   0         0         
+  HLC2748   El senior de los anillos (Trilogia)                                             J.R.R.Tolkien                           145.02    0                   0         0         
+  GJM4671   Origenes                                                                        Lewis Dartnell                          227.01    0                   0         0         
+  VYK6352   Armas germenes y acero                                                          Jared Diamond                           313.79    0                   0         0         
+  BUB3833   Otelo                                                                           William Shakespeare                     212.79    0                   0         0         
+  EUO8195   El jardin del Eden                                                              Hernest Hemingway                       346.82    0                   0         0         
+  JXC1015   Robinson Crusoe                                                                 Daniel Defoe                            108.84    0                   0         0         
+  OMN0252   Los hermanos Karamazov                                                          Fiodor Dostoyevski                      231.02    0                   0         0         
+  YXF2137   En agosto nos vemos                                                             Gabriel Garcia Marquez                  242.03    0                   0         0         
+  SIR3963   Memorias de una geisha                                                          Arthur Golden                           167.74    0                   0         0         
+  MTZ2227   Hamlet                                                                          William Shakespeare                     91.11     0                   0         0         
+  KCI5219   El Maestro y Margarita                                                          Mijail Bulgakov                         321.38    0                   0         0         
+  PVS2464   Sapiens                                                                         Yuval Noah Harari                       307.68    0                   0         0         
+  QMJ4188   Emma                                                                            Jane Austen                             82.40     0                   0         0         
+  JOF6762   Ojos azules                                                                     Arturo Perez-Reverte                    218.80    0                   0         0         
+  ISY5671   Harry Potter y la piedra filosofal (Harry Potter 1)                             J. K. Rowling                           187.23    0                   0         0         
+  RRE8138   Trilogia de la Fundacion                                                        Isaac Asimov                            357.57    0                   0         0         
+  JKE9650   La metamorfosis                                                                 Franz Kafka                             192.81    0                   0         0         
+  BZX4462   Culpa mia                                                                       Mercedes Ron                            89.66     0                   0         0         
+  HXB2949   El medico                                                                       Noah Gordon                             173.83    0                   0         0         

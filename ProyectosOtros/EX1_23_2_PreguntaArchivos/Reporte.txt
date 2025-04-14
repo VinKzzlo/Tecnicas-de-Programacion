@@ -1,0 +1,70 @@
+                                              INSTITUCION EDUCATIVA_TP
+                                      DETALLE DE PAGOS REALIZADOS POR CICLO
+                                                    CICLO: 2023-1
+===================================================================================================================
+  ALUMNO: 20227341  -  DIAZ_ANTEZANO_MAGALI_SILVANA              ESCALA: D
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20218255  -  MEJIA_DIAZ_BLANCA_MILAGROS              ESCALA: B
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20221316  -  RAFFO_CHUNG_ADRIA_GLORIA              ESCALA: A
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20198237  -  CASTRO_SUAREZ_ROLANDO_              ESCALA: C
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20229400  -  DELGADO_GONZALES_GUILLERMO_ALFONSO              ESCALA: A
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20202756  -  PRADO_FALCON_EDGAR_RICHARD              ESCALA: D
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20216298  -  MALDONADO_RAMIREZ_SILVANA_              ESCALA: E
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20225162  -  PISCOYA_BRAVO_CESAR_BRUNO              ESCALA: C
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20197480  -  CERNA_HIJAR_JOSE_ROLANDO              ESCALA: A
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20238549  -  JUSTINO_FORZANI_ERICKA_VICTORIA              ESCALA: A
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20205830  -  FERNANDEZ_ORTEGA_ELIZABETH_ELIZABETH              ESCALA: A
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20205844  -  VILLA_YALLICO_TATIANA_NANCY              ESCALA: A
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20193373  -  VASQUEZ_PAZ_ALEX_MARTIN              ESCALA: C
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20198922  -  PAIRAZAMAN_ALAMO_MOISES_MIGUEL              ESCALA: E
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20209968  -  PRADO_VERGEL_CARLOS_JULIAN              ESCALA: D
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20193769  -  NORABUENA_PRECIADO_CINTHIA_              ESCALA: B
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20226271  -  VELASQUEZ_HUAYANAY_EDGARD_HENRY              ESCALA: C
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20239652  -  INGA_FLORES_CESAR_ADOLFO              ESCALA: E
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20194050  -  CORRALES_TSUKAZAN_IRMA_LOURDES              ESCALA: A
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20195340  -  CERNA_DURAND_MARTIN_              ESCALA: D
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20236102  -  SALAS_AGUERO_DANIEL_              ESCALA: B
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO
+  ALUMNO: 20202031  -  AQUINO_TORO_VALENTINA_ROCIO              ESCALA: B
+-------------------------------------------------------------------------------------------------------------------
+     CURSO MATRICULADO          CREDITOS      MONTO PAGADO

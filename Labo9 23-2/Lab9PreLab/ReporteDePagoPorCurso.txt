@@ -1,0 +1,490 @@
+                                           INSTITUCION EDUCATIVA_TP
+                                     DETALLE DE PAGOS REALIZADO POR CICLO
+                                                     CICLO: 2023-1
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+01)   109220 - FUNDAMENTOS DE PROGRAMACION                                        3.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20236102  Gonzales Arias Henry                        B         326.13              1059.92
+      02)  20235440  Vega Gonzalo                                D         492.65              1601.11
+      03)  20231938  Maldonado Silvana                           E         579.91              1884.71
+      04)  20218376  Calderon Guillermo                          A         256.64               834.08
+      05)  20217328  Camacho Elia Rosa                           A         256.64               834.08
+      06)  20217328  Camacho Elia Rosa                           A         256.64               834.08
+      07)  20216619  Castro Rolando                              D         492.65              1601.11
+      08)  20208940  Coronado Johan                              B         326.13              1059.92
+      09)  20207053  Barrios Tomasiche Carlos Alberto            C         405.54              1318.01
+      10)  20196245  Suarez Rafael                               D         492.65              1601.11
+      11)  20193573  Villegas Doris Freysa                       A         256.64               834.08
+
+TOTAL DE INGRESOS POR MATRICULA: 13462.21
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+02)   109238 - REDES DE COMPUTADORAS                                              5.00
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20237059  Diaz Magali Silvana                         D         492.65              2463.25
+      02)  20231938  Maldonado Silvana                           E         579.91              2899.55
+      03)  20221873  Cruz Johana Ydali                           B         326.13              1630.65
+      04)  20212697  Moya Johnny                                 C         405.54              2027.70
+      05)  20208971  Henriquez Beatriz                           C         405.54              2027.70
+      06)  20208175  Coronel Heli                                A         256.64              1283.20
+      07)  20205830  De La Cuba Alberto Pairazaman               A         256.64              1283.20
+      08)  20202031  Retamoso Barrera Oscar                      B         326.13              1630.65
+      09)  20198608  Landeo Adolfo                               B         326.13              1630.65
+      10)  20193984  Moya Aranda Johnny                          A         256.64              1283.20
+      11)  20192298  Cerna Jose Rolando                          C         405.54              2027.70
+
+TOTAL DE INGRESOS POR MATRICULA: 20187.45
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+03)   109239 - SISTEMAS OPERATIVOS                                                4.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20238549  Chavez Prado Silvana                        A         256.64              1090.72
+      02)  20229272  Valverde Rony Gonzalo                       E         579.91              2464.62
+      03)  20226271  Iberos Valderrama Rafael                    C         405.54              1723.55
+      04)  20215248  Caro Sandro                                 A         256.64              1090.72
+      05)  20208940  Coronado Johan                              B         326.13              1386.05
+      06)  20205864  Salas Daniel                                D         492.65              2093.76
+      07)  20198069  Villa Tatiana Nancy                         E         579.91              2464.62
+      08)  20195764  Chavez Silvana                              A         256.64              1090.72
+
+TOTAL DE INGRESOS POR MATRICULA: 13404.75
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+04)   109245 - INGENIERIA DE SOFTWARE                                             4.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20237059  Diaz Magali Silvana                         D         492.65              2093.76
+      02)  20237059  Diaz Magali Silvana                         D         492.65              2093.76
+      03)  20236453  Florian Morales Ydali                       B         326.13              1386.05
+      04)  20231938  Maldonado Silvana                           E         579.91              2464.62
+      05)  20218679  Villegas Palomino Doris Freysa              D         492.65              2093.76
+      06)  20208971  Henriquez Beatriz                           C         405.54              1723.55
+      07)  20198069  Villa Tatiana Nancy                         E         579.91              2464.62
+
+TOTAL DE INGRESOS POR MATRICULA: 14320.12
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+05)   109246 - BASES DE DATOS                                                     4.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20239652  Vilcara Correa Victor                       E         579.91              2754.57
+      02)  20236453  Florian Morales Ydali                       B         326.13              1549.12
+      03)  20233816  Pairazaman Moises Miguel                    E         579.91              2754.57
+      04)  20231938  Maldonado Silvana                           E         579.91              2754.57
+      05)  20221873  Cruz Johana Ydali                           B         326.13              1549.12
+      06)  20208175  Coronel Heli                                A         256.64              1219.04
+      07)  20205830  De La Cuba Alberto Pairazaman               A         256.64              1219.04
+      08)  20202756  Amezquita Epiquen Evert Roberto             D         492.65              2340.09
+
+TOTAL DE INGRESOS POR MATRICULA: 16140.12
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+06)   109248 - SISTEMAS DE INFORMACION 1                                          3.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20236102  Gonzales Arias Henry                        B         326.13              1059.92
+      02)  20231152  Cabrera Guillermo Edric                     E         579.91              1884.71
+      03)  20207741  Coronado Figueroa Johan                     E         579.91              1884.71
+      04)  20202031  Retamoso Barrera Oscar                      B         326.13              1059.92
+
+TOTAL DE INGRESOS POR MATRICULA: 5889.26
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+07)   109250 - SISTEMAS DE INFORMACION 2                                          4.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20235440  Vega Gonzalo                                D         492.65              2340.09
+      02)  20218255  Benavente Ayala Virginia Irma               B         326.13              1549.12
+      03)  20205844  Gordillo Yino Yvonne Rosario                A         256.64              1219.04
+      04)  20193769  Suarez Bolanos Rafael                       B         326.13              1549.12
+      05)  20193573  Villegas Doris Freysa                       A         256.64              1219.04
+
+TOTAL DE INGRESOS POR MATRICULA: 7876.40
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+08)   109263 - ALGORITMIA                                                         4.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20227724  Hijar Pairazaman Jenny Delicia              D         492.65              2093.76
+      02)  20216298  Cruz Fuentes Johana Ydali                   E         579.91              2464.62
+      03)  20209968  Calderon Ortega Guillermo                   D         492.65              2093.76
+      04)  20195979  Maldonado Florian Johana                    E         579.91              2464.62
+      05)  20195244  Auris Javier Daniel                         A         256.64              1090.72
+
+TOTAL DE INGRESOS POR MATRICULA: 10207.48
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+09)   109281 - LENGUAJE DE PROGRAMACION 1                                         3.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20224223  Acuna Yino Rocio Yolanda                    E         579.91              1884.71
+      02)  20219990  Pasquel Surami Janet                        A         256.64               834.08
+      03)  20219990  Pasquel Surami Janet                        A         256.64               834.08
+      04)  20218255  Benavente Ayala Virginia Irma               B         326.13              1059.92
+      05)  20202756  Amezquita Epiquen Evert Roberto             D         492.65              1601.11
+      06)  20202031  Retamoso Barrera Oscar                      B         326.13              1059.92
+
+TOTAL DE INGRESOS POR MATRICULA: 7273.82
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+10)   109282 - LENGUAJE DE PROGRAMACION 2                                         4.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20236905  Ruiz Gordillo Carola Erika                  A         256.64              1090.72
+      02)  20236453  Florian Morales Ydali                       B         326.13              1386.05
+      03)  20235440  Vega Gonzalo                                D         492.65              2093.76
+      04)  20221316  Miyake Merel Madeleine Yliana               A         256.64              1090.72
+      05)  20219990  Pasquel Surami Janet                        A         256.64              1090.72
+      06)  20202687  Mejia Huayanay Christian Alonso             A         256.64              1090.72
+      07)  20197557  Calixto Tomasiche Monica Doris              D         492.65              2093.76
+      08)  20193769  Suarez Bolanos Rafael                       B         326.13              1386.05
+      09)  20193490  Hijar Williams Christian                    C         405.54              1723.55
+
+TOTAL DE INGRESOS POR MATRICULA: 13046.06
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+11)   231206 - TERMODINAMICA 1                                                    2.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20239652  Vilcara Correa Victor                       E         579.91              1594.75
+      02)  20229272  Valverde Rony Gonzalo                       E         579.91              1594.75
+      03)  20219566  Justino Williams                            C         405.54              1115.24
+      04)  20217328  Camacho Elia Rosa                           A         256.64               705.76
+      05)  20213075  Gordillo Yvonne Rosario                     E         579.91              1594.75
+      06)  20205830  De La Cuba Alberto Pairazaman               A         256.64               705.76
+      07)  20202756  Amezquita Epiquen Evert Roberto             D         492.65              1354.79
+      08)  20197378  Laura Melvin Henrry                         B         326.13               896.86
+      09)  20197374  Arca Edric Ronald                           D         492.65              1354.79
+      10)  20197155  Norabuena Cinthia                           A         256.64               705.76
+      11)  20195979  Maldonado Florian Johana                    E         579.91              1594.75
+
+TOTAL DE INGRESOS POR MATRICULA: 13217.96
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+12)   231209 - MECANICA DE FLUIDOS                                                3.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20219566  Justino Williams                            C         405.54              1520.78
+      02)  20208971  Henriquez Beatriz                           C         405.54              1520.78
+      03)  20202031  Retamoso Barrera Oscar                      B         326.13              1222.99
+      04)  20202031  Retamoso Barrera Oscar                      B         326.13              1222.99
+      05)  20197378  Laura Melvin Henrry                         B         326.13              1222.99
+      06)  20196536  Palomares Henrry Humberto                   B         326.13              1222.99
+      07)  20191754  Delgado Guillermo Alfonso                   D         492.65              1847.44
+
+TOTAL DE INGRESOS POR MATRICULA: 9780.94
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+13)   231269 - LABORATORIO DE TERMODINAMICA Y FLUIDOS                             4.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20238549  Chavez Prado Silvana                        A         256.64              1219.04
+      02)  20227724  Hijar Pairazaman Jenny Delicia              D         492.65              2340.09
+      03)  20208175  Coronel Heli                                A         256.64              1219.04
+      04)  20205864  Salas Daniel                                D         492.65              2340.09
+      05)  20198922  Hijar Yep Williams Christian                E         579.91              2754.57
+
+TOTAL DE INGRESOS POR MATRICULA: 9872.83
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+14)   231270 - PROCESOS DE MANUFACTURA                                            5.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20202756  Amezquita Epiquen Evert Roberto             D         492.65              2832.74
+      02)  20198434  Maldonado Johana                            D         492.65              2832.74
+      03)  20195340  Henriquez Portugal Alex                     D         492.65              2832.74
+      04)  20193490  Hijar Williams Christian                    C         405.54              2331.86
+
+TOTAL DE INGRESOS POR MATRICULA: 10830.07
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+15)   231283 - LABORATORIO DE INTRODUCCION AL DISENO DE MAQUINAS                  3.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20235440  Vega Gonzalo                                D         492.65              1847.44
+      02)  20235440  Vega Gonzalo                                D         492.65              1847.44
+      03)  20225162  Yoshinari Rivera Paul                       C         405.54              1520.78
+      04)  20219990  Pasquel Surami Janet                        A         256.64               962.40
+      05)  20216298  Cruz Fuentes Johana Ydali                   E         579.91              2174.66
+      06)  20208940  Coronado Johan                              B         326.13              1222.99
+      07)  20208940  Coronado Johan                              B         326.13              1222.99
+      08)  20197480  Asmad Acuna Annie Ofelia                    A         256.64               962.40
+      09)  20196245  Suarez Rafael                               D         492.65              1847.44
+      10)  20194050  Valverde Berrocal Rony Gonzalo              A         256.64               962.40
+
+TOTAL DE INGRESOS POR MATRICULA: 14570.92
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+16)   231286 - TRANSFERENCIA DE CALOR                                             3.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20218679  Villegas Palomino Doris Freysa              D         492.65              1601.11
+      02)  20213075  Gordillo Yvonne Rosario                     E         579.91              1884.71
+      03)  20211892  Retamoso Oscar                              B         326.13              1059.92
+      04)  20198922  Hijar Yep Williams Christian                E         579.91              1884.71
+      05)  20198845  Cortez Segura Carmela Ines                  E         579.91              1884.71
+      06)  20194050  Valverde Berrocal Rony Gonzalo              A         256.64               834.08
+
+TOTAL DE INGRESOS POR MATRICULA: 9149.24
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+17)   231289 - TURBOMAQUINAS Y MAQUINAS DE DESPLAZAMIENTO POSITIVO                3.00
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20233816  Pairazaman Moises Miguel                    E         579.91              1739.73
+      02)  20229272  Valverde Rony Gonzalo                       E         579.91              1739.73
+      03)  20225162  Yoshinari Rivera Paul                       C         405.54              1216.62
+      04)  20197378  Laura Melvin Henrry                         B         326.13               978.39
+
+TOTAL DE INGRESOS POR MATRICULA: 5674.47
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+18)   231292 - INTRODUCCION AL DISENO DE MAQUINAS                                 2.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20239652  Vilcara Correa Victor                       E         579.91              1594.75
+      02)  20218255  Benavente Ayala Virginia Irma               B         326.13               896.86
+      03)  20208175  Coronel Heli                                A         256.64               705.76
+      04)  20207053  Barrios Tomasiche Carlos Alberto            C         405.54              1115.24
+      05)  20198237  Medina Velasquez Milena Jenny               C         405.54              1115.24
+      06)  20194050  Valverde Berrocal Rony Gonzalo              A         256.64               705.76
+      07)  20193573  Villegas Doris Freysa                       A         256.64               705.76
+      08)  20193373  Martel Asmad Bruno Roberto                  C         405.54              1115.24
+      09)  20193373  Martel Asmad Bruno Roberto                  C         405.54              1115.24
+
+TOTAL DE INGRESOS POR MATRICULA: 9069.83
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+19)   231373 - METROLOGIA                                                         2.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20229400  Correa Vizcardo Miguel                      A         256.64               705.76
+      02)  20227724  Hijar Pairazaman Jenny Delicia              D         492.65              1354.79
+      03)  20217328  Camacho Elia Rosa                           A         256.64               705.76
+      04)  20215248  Caro Sandro                                 A         256.64               705.76
+      05)  20205844  Gordillo Yino Yvonne Rosario                A         256.64               705.76
+      06)  20198608  Landeo Adolfo                               B         326.13               896.86
+      07)  20197378  Laura Melvin Henrry                         B         326.13               896.86
+      08)  20197374  Arca Edric Ronald                           D         492.65              1354.79
+      09)  20194050  Valverde Berrocal Rony Gonzalo              A         256.64               705.76
+      10)  20193769  Suarez Bolanos Rafael                       B         326.13               896.86
+
+TOTAL DE INGRESOS POR MATRICULA: 8928.95
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+20)   375218 - ECUACIONES DIFERENCIALES APLICADAS                                 3.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20224165  Cortez Carmela Ines                         A         256.64               834.08
+      02)  20205844  Gordillo Yino Yvonne Rosario                A         256.64               834.08
+      03)  20196536  Palomares Henrry Humberto                   B         326.13              1059.92
+      04)  20193573  Villegas Doris Freysa                       A         256.64               834.08
+
+TOTAL DE INGRESOS POR MATRICULA: 3562.16
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+21)   375219 - HERRAMIENTAS MATEMATICAS                                           2.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20222575  Henriquez Alex                              B         326.13               733.79
+      02)  20216298  Cruz Fuentes Johana Ydali                   E         579.91              1304.80
+      03)  20198922  Hijar Yep Williams Christian                E         579.91              1304.80
+
+TOTAL DE INGRESOS POR MATRICULA: 3343.39
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+22)   375241 - METODOS NUMERICOS EN INGENIERIA                                    5.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20226271  Iberos Valderrama Rafael                    C         405.54              2331.86
+      02)  20219566  Justino Williams                            C         405.54              2331.86
+      03)  20218679  Villegas Palomino Doris Freysa              D         492.65              2832.74
+      04)  20216619  Castro Rolando                              D         492.65              2832.74
+      05)  20213075  Gordillo Yvonne Rosario                     E         579.91              3334.48
+      06)  20197378  Laura Melvin Henrry                         B         326.13              1875.25
+      07)  20195764  Chavez Silvana                              A         256.64              1475.68
+      08)  20193891  Raffo Adria Gloria                          D         492.65              2832.74
+      09)  20193373  Martel Asmad Bruno Roberto                  C         405.54              2331.86
+
+TOTAL DE INGRESOS POR MATRICULA: 22179.19
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+23)   375781 - MATEMATICA COMPUTACIONAL PARA CONTROL                              4.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20231152  Cabrera Guillermo Edric                     E         579.91              2754.57
+      02)  20219990  Pasquel Surami Janet                        A         256.64              1219.04
+      03)  20208940  Coronado Johan                              B         326.13              1549.12
+      04)  20198434  Maldonado Johana                            D         492.65              2340.09
+      05)  20196245  Suarez Rafael                               D         492.65              2340.09
+      06)  20195244  Auris Javier Daniel                         A         256.64              1219.04
+
+TOTAL DE INGRESOS POR MATRICULA: 11421.94
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+24)   481203 - FISICA 4                                                           4.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20236905  Ruiz Gordillo Carola Erika                  A         256.64              1090.72
+      02)  20233816  Pairazaman Moises Miguel                    E         579.91              2464.62
+      03)  20229400  Correa Vizcardo Miguel                      A         256.64              1090.72
+      04)  20218376  Calderon Guillermo                          A         256.64              1090.72
+
+TOTAL DE INGRESOS POR MATRICULA: 5736.78
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+25)   481208 - TEMAS DE FISICA GENERAL                                            3.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20238246  Piscoya Cesar Bruno                         C         405.54              1520.78
+      02)  20198845  Cortez Segura Carmela Ines                  E         579.91              2174.66
+      03)  20193373  Martel Asmad Bruno Roberto                  C         405.54              1520.78
+
+TOTAL DE INGRESOS POR MATRICULA: 5216.21
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+26)   481218 - FISICA MODERNA                                                     5.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20239652  Vilcara Correa Victor                       E         579.91              3044.53
+      02)  20227341  Landa Piscoya Christian                     D         492.65              2586.41
+      03)  20198608  Landeo Adolfo                               B         326.13              1712.18
+      04)  20195764  Chavez Silvana                              A         256.64              1347.36
+      05)  20193373  Martel Asmad Bruno Roberto                  C         405.54              2129.09
+      06)  20193012  Lozada Martha                               C         405.54              2129.09
+
+TOTAL DE INGRESOS POR MATRICULA: 12948.65
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+27)   481219 - SISTEMAS ELECTROMAGNETICOS Y OPTOELECTRONICOS                      3.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20238246  Piscoya Cesar Bruno                         C         405.54              1318.01
+      02)  20236905  Ruiz Gordillo Carola Erika                  A         256.64               834.08
+      03)  20229400  Correa Vizcardo Miguel                      A         256.64               834.08
+      04)  20227341  Landa Piscoya Christian                     D         492.65              1601.11
+
+TOTAL DE INGRESOS POR MATRICULA: 4587.28
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+28)   481220 - TECNICAS COMPUTACIONALES EN FISICA                                 3.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20237059  Diaz Magali Silvana                         D         492.65              1847.44
+      02)  20222575  Henriquez Alex                              B         326.13              1222.99
+      03)  20195979  Maldonado Florian Johana                    E         579.91              2174.66
+      04)  20193490  Hijar Williams Christian                    C         405.54              1520.78
+
+TOTAL DE INGRESOS POR MATRICULA: 6765.86
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+29)   481227 - PARTICULAS ELEMENTALES                                             4.00
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20236453  Florian Morales Ydali                       B         326.13              1304.52
+      02)  20231152  Cabrera Guillermo Edric                     E         579.91              2319.64
+      03)  20229400  Correa Vizcardo Miguel                      A         256.64              1026.56
+      04)  20208971  Henriquez Beatriz                           C         405.54              1622.16
+      05)  20198845  Cortez Segura Carmela Ines                  E         579.91              2319.64
+      06)  20197480  Asmad Acuna Annie Ofelia                    A         256.64              1026.56
+
+TOTAL DE INGRESOS POR MATRICULA: 9619.08
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+30)   481229 - TRABAJO DE INVESTIGACION                                           3.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20238549  Chavez Prado Silvana                        A         256.64               962.40
+      02)  20233583  Vega Munoz Gonzalo                          B         326.13              1222.99
+      03)  20231152  Cabrera Guillermo Edric                     E         579.91              2174.66
+      04)  20226455  Alamo Pairazaman Miguel Roberto             B         326.13              1222.99
+      05)  20226455  Alamo Pairazaman Miguel Roberto             B         326.13              1222.99
+      06)  20198069  Villa Tatiana Nancy                         E         579.91              2174.66
+      07)  20195979  Maldonado Florian Johana                    E         579.91              2174.66
+      08)  20193891  Raffo Adria Gloria                          D         492.65              1847.44
+
+TOTAL DE INGRESOS POR MATRICULA: 13002.79
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+31)   481230 - TEORIA DE CAMPOS ELECTROMAGNETICOS                                 3.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20236905  Ruiz Gordillo Carola Erika                  A         256.64               962.40
+      02)  20229400  Correa Vizcardo Miguel                      A         256.64               962.40
+      03)  20218255  Benavente Ayala Virginia Irma               B         326.13              1222.99
+      04)  20216619  Castro Rolando                              D         492.65              1847.44
+      05)  20213075  Gordillo Yvonne Rosario                     E         579.91              2174.66
+
+TOTAL DE INGRESOS POR MATRICULA: 7169.89
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+32)   481239 - ESTADO SOLIDO                                                      4.25
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20219566  Justino Williams                            C         405.54              1723.55
+      02)  20198608  Landeo Adolfo                               B         326.13              1386.05
+      03)  20197155  Norabuena Cinthia                           A         256.64              1090.72
+      04)  20195244  Auris Javier Daniel                         A         256.64              1090.72
+
+TOTAL DE INGRESOS POR MATRICULA: 5291.04
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+33)   481247 - OPTICA Y FOTONICA                                                  3.75
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20218679  Villegas Palomino Doris Freysa              D         492.65              1847.44
+      02)  20213075  Gordillo Yvonne Rosario                     E         579.91              2174.66
+      03)  20205864  Salas Daniel                                D         492.65              1847.44
+
+TOTAL DE INGRESOS POR MATRICULA: 5869.54
+===============================================================================================================
+No.       CURSO                                                                 CREDITOS
+---------------------------------------------------------------------------------------------------------------
+34)   481248 - MECANICA CLASICA 1                                                 4.00
+      ALUMNOS MATRICULADOS
+      No.  ALUMNO                                             ESCALA   PAGO POR CREDITO    TOTAL A PAGAR
+      01)  20227724  Hijar Pairazaman Jenny Delicia              D         492.65              1970.60
+      02)  20197374  Arca Edric Ronald                           D         492.65              1970.60
+      03)  20193891  Raffo Adria Gloria                          D         492.65              1970.60
+
+TOTAL DE INGRESOS POR MATRICULA: 5911.80
+===============================================================================================================
+MONTO TOTAL POR INGRESOS DE MATRICULA:  335528.48
+===============================================================================================================

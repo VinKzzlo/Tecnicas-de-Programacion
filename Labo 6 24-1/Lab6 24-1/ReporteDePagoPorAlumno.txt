@@ -1,0 +1,20 @@
+                                            INSTITUCION EDUCATIVA_TP
+                                 PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
+                                                 CICLO: 2024-1
+                                                FACULTAD DE ARTE
+================================================================================================================
+     ALUMNO                                       No. de Cursos  Suma Ponderada  No. de Creditos  Prom Ponderado  
+----------------------------------------------------------------------------------------------------------------
+20236102 - SALAS/AGUERO/DANIEL-LUIS                     11           700.00          52.25             13.40
+20202031 - AQUINO/TORO/VALENTINA-ROCIO                  11           638.75          48.50             13.17
+20224223 - PASQUEL/QUIO/SURAMI-JANET                     5           372.50          22.50             16.56
+20218679 - AURIS/ZIMIC/JAVIER-DANIEL                    17           978.50          75.00             13.05
+20192298 - CORREA/VIZCARDO/MIGUEL-ANGEL                 14           667.50          57.50             11.61
+20221873 - HENRIQUEZ/PORTUGAL/ALEX                      12           740.00          59.00             12.54
+20197378 - VILLEGAS/PALOMINO/DORIS-FREYSA               17           979.00          73.25             13.37
+20215248 - MEJIA/HUAYANAY/CHRISTIAN-ALONSO              13           709.75          62.25             11.40
+20191754 - MOYA/ARANDA/JOHNNY-JUAN                      16           826.50          71.75             11.52
+20195244 - CORTEZ/SEGURA/CARMELA-INES                   12           665.00          53.00             12.55
+20217328 - ALAMO/PAIRAZAMAN/MIGUEL-ROBERTO              11           618.00          51.75             11.94
+20238246 - RUIZ/GORDILLO/CAROLA-ERIKA                   11           631.50          48.50             13.02
+================================================================================================================
