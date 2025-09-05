@@ -152,7 +152,7 @@ void actualizarDatosMedici(ifstream &arch,double &medicosIngMeds, double porcDct
             medicinDctos[posMedicina] += (precio*cantMedicina)*(porcDcto/200);
             montoMedicinas += (precio*cantMedicina)*(1-porcDcto/200);
         }
-        else while(arch.get() != '\n');
+//        else while(arch.get() != '\n');
     }
     medicosIngMeds += montoMedicinas;
 }

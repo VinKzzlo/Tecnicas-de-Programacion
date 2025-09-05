@@ -1,20 +1,21 @@
                                             INSTITUCION EDUCATIVA_TP
                                  PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
                                                  CICLO: 2024-1
-                                                FACULTAD DE ARTE
+                                              FACULTAD DE DERECHO
 ================================================================================================================
      ALUMNO                                       No. de Cursos  Suma Ponderada  No. de Creditos  Prom Ponderado  
 ----------------------------------------------------------------------------------------------------------------
-20236102 - SALAS/AGUERO/DANIEL-LUIS                     11           700.00          52.25             13.40
-20202031 - AQUINO/TORO/VALENTINA-ROCIO                  11           638.75          48.50             13.17
-20224223 - PASQUEL/QUIO/SURAMI-JANET                     5           372.50          22.50             16.56
-20218679 - AURIS/ZIMIC/JAVIER-DANIEL                    17           978.50          75.00             13.05
-20192298 - CORREA/VIZCARDO/MIGUEL-ANGEL                 14           667.50          57.50             11.61
-20221873 - HENRIQUEZ/PORTUGAL/ALEX                      12           740.00          59.00             12.54
-20197378 - VILLEGAS/PALOMINO/DORIS-FREYSA               17           979.00          73.25             13.37
-20215248 - MEJIA/HUAYANAY/CHRISTIAN-ALONSO              13           709.75          62.25             11.40
-20191754 - MOYA/ARANDA/JOHNNY-JUAN                      16           826.50          71.75             11.52
-20195244 - CORTEZ/SEGURA/CARMELA-INES                   12           665.00          53.00             12.55
-20217328 - ALAMO/PAIRAZAMAN/MIGUEL-ROBERTO              11           618.00          51.75             11.94
-20238246 - RUIZ/GORDILLO/CAROLA-ERIKA                   11           631.50          48.50             13.02
+20198922 - PAIRAZAMAN/ALAMO/MOISES-MIGUEL               18          1073.25          81.50             13.17
+20195979 - MEJIA/DE/LA-HAZA-FRANCISCO-EDGAR             15          1053.25          74.50             14.14
+20197155 - JUSTINO/CRUZ/WILLIAMS-PAUL                    9           493.75          41.25             11.97
+20193891 - CAMACHO/AGUERO/ELIA-ROSA                     13           754.25          52.75             14.30
+20196536 - BENAVENTE/AYALA/VIRGINIA-IRMA                10           555.50          41.25             13.47
+20224165 - MIYAKE/MEREL/MADELEINE-YLIANA                14           716.00          64.75             11.06
+20198069 - AMEZQUITA/EPIQUEN/EVERT-ROBERTO              14           652.50          58.50             11.15
+20198434 - CHAVEZ/PRADO/SILVANA-MARIA                   16          1017.75          66.00             15.42
+20193012 - CUBA/PAIRAZAMAN/ALBERTO-RAUL                 14           669.25          59.50             11.25
+20231938 - MARTEL/ASMAD/BRUNO-ROBERTO                   18           916.25          79.00             11.60
+20212697 - RETAMOSO/BARRERA/OSCAR-JOSE                  14           657.25          57.00             11.53
+20196245 - VEGA/MUNOZ/GONZALO-TEOBALDO                  17          1024.50          77.75             13.18
+20193490 - CORONADO/FIGUEROA/JOHAN-JOSE                 16           846.50          69.75             12.14
 ================================================================================================================
