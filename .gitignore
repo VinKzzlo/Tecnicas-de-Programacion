@@ -1,3 +1,7 @@
 #Elimina .zip, .rar
 *.zip
 *.rar
+
+#Carpetas CLion
+.idea/
+cmake-build-debug/
