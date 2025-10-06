@@ -141,7 +141,7 @@ void actualizarArreglosCanales(double ratingCanal, int porcentajeIntRating,
     numReprodCanal+=numReproducciones;
     tiempoReproCanal += duracionEtiqueta*numReproducciones;
     double cantMinutosRepro = (duracionEtiqueta*numReproducciones)/(double)60;
-    ingresosCanal += cantMinutosRepro*(1 - (double)porcentajeIntRating/100)*tarifa;
+    ingresosCanal += cantMinutosRepro*(1 + (double)porcentajeIntRating/100)*tarifa;
 }
 
 void actualizarArreglosEtiquetas(int &etiqNumRepro, int &etiqTiempoRepro, int duracionEtiqueta, int numReproducciones) {
