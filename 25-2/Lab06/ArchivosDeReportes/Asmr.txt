@@ -1,0 +1,15 @@
+Codigo: KS132B14
+Nombre: asmr
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Asmr
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+17/09/2025   dota2mc_ru             4.58        0.94         01:31:44
+26/09/2025   BeyondTheSummit        4.00        0.06         00:52:51
+06/10/2025   Tfue                   2.69        0.72         00:43:38
+02/09/2025   Yassuo                 1.16        0.70         02:18:06
+01/11/2025   ESL_CSGO               1.45        0.58         01:01:03
+========================================================================
+PROMEDIO DE RATING: 2.77
+PROMEDIO DE DROP-OFF: 0.60
+DURACION TOTAL: 06:27:22

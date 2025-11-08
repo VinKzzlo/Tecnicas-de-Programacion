@@ -1,0 +1,12 @@
+Codigo: VS157U81
+Nombre: abiotic_factor
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Abiotic_Factor
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+15/09/2025   TheRealKnossi          3.57        0.18         00:11:05
+02/09/2025   summit1g               4.04        0.85         00:38:53
+========================================================================
+PROMEDIO DE RATING: 3.80
+PROMEDIO DE DROP-OFF: 0.51
+DURACION TOTAL: 00:49:58

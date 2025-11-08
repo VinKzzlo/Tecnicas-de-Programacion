@@ -1,0 +1,11 @@
+Codigo: MK171R42
+Nombre: mobile_legends_bang_bang
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Mobile_Legends_Bang_Bang
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+14/10/2025   hanryang1125           3.18        0.67         00:43:21
+========================================================================
+PROMEDIO DE RATING: 3.18
+PROMEDIO DE DROP-OFF: 0.67
+DURACION TOTAL: 00:43:21

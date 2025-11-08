@@ -1,0 +1,19 @@
+Codigo: MI118Y35
+Nombre: special_events
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Special_Events
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+22/09/2025   Rubius                 1.24        0.25         00:50:15
+27/10/2025   Pestily                4.91        0.61         01:41:23
+07/10/2025   xQcOW                  1.34        0.63         02:17:31
+31/08/2025   Solary                 3.07        0.33         02:00:06
+24/08/2025   ibai                   2.81        0.42         02:09:45
+12/09/2025   Sardoche               2.93        0.67         00:15:59
+18/08/2025   TimTheTatman           3.84        0.43         00:09:48
+25/09/2025   NICKMERCS              2.90        0.07         00:47:31
+18/10/2025   ESL_CSGO               4.81        0.71         00:50:07
+========================================================================
+PROMEDIO DE RATING: 3.09
+PROMEDIO DE DROP-OFF: 0.46
+DURACION TOTAL: 11:02:25

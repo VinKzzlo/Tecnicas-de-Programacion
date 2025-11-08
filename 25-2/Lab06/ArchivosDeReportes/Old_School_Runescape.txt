@@ -1,0 +1,13 @@
+Codigo: RQ191T25
+Nombre: old_school_runescape
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Old_School_Runescape
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+29/09/2025   TheGrefg               3.71        0.97         01:22:05
+13/09/2025   hanryang1125           4.41        0.91         00:16:25
+30/10/2025   Rubius                 1.06        0.59         00:13:58
+========================================================================
+PROMEDIO DE RATING: 3.06
+PROMEDIO DE DROP-OFF: 0.82
+DURACION TOTAL: 01:52:28

@@ -1,0 +1,15 @@
+Codigo: LO141I68
+Nombre: call_of_duty_black_ops_6
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Call_Of_Duty_Black_Ops_
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+03/09/2025   Sardoche               4.26        1.00         00:49:49
+31/08/2025   summit1g               1.04        0.39         00:27:13
+13/09/2025   Dota2RuHub             3.25        0.42         00:27:04
+31/08/2025   Fresh                  4.91        0.67         02:09:53
+25/08/2025   Castro_1021            3.38        0.49         02:15:22
+========================================================================
+PROMEDIO DE RATING: 3.37
+PROMEDIO DE DROP-OFF: 0.59
+DURACION TOTAL: 06:09:21

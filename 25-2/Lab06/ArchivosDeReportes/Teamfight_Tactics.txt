@@ -1,0 +1,13 @@
+Codigo: KO184K63
+Nombre: teamfight_tactics
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Teamfight_Tactics
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+25/08/2025   Dota2RuHub             2.12        0.56         00:49:58
+27/09/2025   Gotaga                 1.43        0.97         00:34:08
+29/10/2025   Pestily                3.55        0.55         01:09:24
+========================================================================
+PROMEDIO DE RATING: 2.36
+PROMEDIO DE DROP-OFF: 0.69
+DURACION TOTAL: 02:33:30

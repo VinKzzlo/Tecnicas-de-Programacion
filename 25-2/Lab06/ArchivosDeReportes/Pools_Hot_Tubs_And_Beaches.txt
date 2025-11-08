@@ -1,0 +1,16 @@
+Codigo: SJ181Q95
+Nombre: pools_hot_tubs_and_beaches
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Pools_Hot_Tubs_And_Beaches
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+01/11/2025   LCK                    4.67        0.45         01:48:17
+07/10/2025   Tfue                   2.64        0.17         01:01:38
+21/08/2025   dota2mc_ru             2.46        0.30         00:40:45
+08/10/2025   loltyler1              1.30        0.48         02:20:15
+01/11/2025   Asmongold              2.03        0.32         02:02:07
+03/11/2025   ESL_CSGO               2.45        0.17         01:41:14
+========================================================================
+PROMEDIO DE RATING: 2.59
+PROMEDIO DE DROP-OFF: 0.31
+DURACION TOTAL: 09:34:16

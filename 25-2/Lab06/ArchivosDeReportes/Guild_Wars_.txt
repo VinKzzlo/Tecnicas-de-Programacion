@@ -1,0 +1,14 @@
+Codigo: KF142D45
+Nombre: guild_wars_2
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Guild_Wars_
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+09/10/2025   YoDa                   3.66        0.12         00:17:00
+27/10/2025   NICKMERCS              4.21        0.53         00:58:02
+20/08/2025   BeyondTheSummit        4.77        0.28         00:30:23
+16/10/2025   LIRIK                  1.68        0.37         00:07:47
+========================================================================
+PROMEDIO DE RATING: 3.58
+PROMEDIO DE DROP-OFF: 0.32
+DURACION TOTAL: 01:53:12

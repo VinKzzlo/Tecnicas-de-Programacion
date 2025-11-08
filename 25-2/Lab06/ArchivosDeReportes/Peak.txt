@@ -1,0 +1,15 @@
+Codigo: CY155Y58
+Nombre: peak
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Peak
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+19/09/2025   Lord_Kebun             1.66        0.93         02:22:25
+24/10/2025   TheGrefg               4.13        0.76         01:16:36
+11/10/2025   Gaules                 2.71        0.89         02:19:32
+22/10/2025   handongsuk             3.99        0.32         00:19:35
+26/08/2025   Sardoche               2.70        0.96         01:26:59
+========================================================================
+PROMEDIO DE RATING: 3.04
+PROMEDIO DE DROP-OFF: 0.77
+DURACION TOTAL: 07:45:07

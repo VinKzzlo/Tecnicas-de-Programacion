@@ -1,0 +1,12 @@
+Codigo: TB183R89
+Nombre: wuthering_waves
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Wuthering_Waves
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+18/09/2025   dota2mc_ru             3.66        0.10         00:40:02
+02/11/2025   LEC                    2.67        0.76         02:18:14
+========================================================================
+PROMEDIO DE RATING: 3.16
+PROMEDIO DE DROP-OFF: 0.43
+DURACION TOTAL: 02:58:16

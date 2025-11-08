@@ -1,0 +1,11 @@
+Codigo: VB136P13
+Nombre: age_of_empires_ii
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Age_Of_Empires_Ii
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+17/10/2025   LCK_Korea              2.83        0.97         01:19:55
+========================================================================
+PROMEDIO DE RATING: 2.83
+PROMEDIO DE DROP-OFF: 0.97
+DURACION TOTAL: 01:19:55

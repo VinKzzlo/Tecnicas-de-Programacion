@@ -1,0 +1,13 @@
+Codigo: XL132F68
+Nombre: clair_obscur_expedition_33
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Clair_Obscur_Expedition_
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+21/09/2025   DrLupo                 1.91        0.80         01:58:13
+31/08/2025   xQcOW                  3.96        0.93         01:50:53
+30/08/2025   Yassuo                 2.97        0.77         00:45:04
+========================================================================
+PROMEDIO DE RATING: 2.95
+PROMEDIO DE DROP-OFF: 0.83
+DURACION TOTAL: 04:34:10

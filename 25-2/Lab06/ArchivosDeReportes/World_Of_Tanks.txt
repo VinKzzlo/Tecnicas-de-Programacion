@@ -1,0 +1,15 @@
+Codigo: RD128Y57
+Nombre: world_of_tanks
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/World_Of_Tanks
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+31/08/2025   MontanaBlack88         4.76        0.57         00:21:01
+20/08/2025   LEC                    1.34        0.97         01:13:35
+23/10/2025   Tfue                   4.17        0.96         00:27:56
+19/09/2025   LIRIK                  4.96        0.68         01:50:27
+24/10/2025   MOONMOON               3.23        0.84         02:08:27
+========================================================================
+PROMEDIO DE RATING: 3.69
+PROMEDIO DE DROP-OFF: 0.81
+DURACION TOTAL: 06:01:26

@@ -1,0 +1,14 @@
+Codigo: II162W87
+Nombre: crypto
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Crypto
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+12/09/2025   riotgames              4.42        0.24         01:55:21
+30/10/2025   nl_Kripp               1.58        0.36         01:08:50
+21/09/2025   ibai                   3.12        0.57         00:09:56
+15/09/2025   Asmongold              4.12        0.22         02:17:14
+========================================================================
+PROMEDIO DE RATING: 3.31
+PROMEDIO DE DROP-OFF: 0.35
+DURACION TOTAL: 05:31:21

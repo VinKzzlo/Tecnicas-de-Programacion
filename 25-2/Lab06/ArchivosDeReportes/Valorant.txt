@@ -1,0 +1,15 @@
+Codigo: LH114O61
+Nombre: valorant
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Valorant
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+24/10/2025   DrLupo                 3.66        0.35         00:33:24
+03/09/2025   YoDa                   1.14        1.00         00:45:22
+23/09/2025   Auronplay              1.12        0.39         02:05:25
+03/09/2025   DrLupo                 1.44        0.88         02:19:32
+03/10/2025   LCK                    3.12        0.53         00:12:49
+========================================================================
+PROMEDIO DE RATING: 2.10
+PROMEDIO DE DROP-OFF: 0.63
+DURACION TOTAL: 05:56:32

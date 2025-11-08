@@ -1,0 +1,14 @@
+Codigo: TZ196V36
+Nombre: grand_theft_auto_v
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Grand_Theft_Auto_V
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+23/10/2025   TFBlade                2.18        0.02         01:07:32
+08/10/2025   Castro_1021            1.13        0.12         00:10:39
+22/09/2025   ibai                   4.43        0.76         01:27:50
+20/08/2025   LIRIK                  3.87        0.85         02:17:05
+========================================================================
+PROMEDIO DE RATING: 2.90
+PROMEDIO DE DROP-OFF: 0.44
+DURACION TOTAL: 05:03:06

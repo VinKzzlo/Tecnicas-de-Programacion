@@ -1,0 +1,15 @@
+Codigo: QC176I92
+Nombre: call_of_duty_warzone
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Call_Of_Duty_Warzone
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+16/10/2025   Fextralife             2.96        0.64         00:24:29
+08/09/2025   LCK_Korea              1.41        0.98         01:32:01
+19/08/2025   Gaules                 3.12        0.04         00:53:25
+23/08/2025   TFBlade                2.35        0.33         01:17:20
+12/09/2025   NICKMERCS              4.42        0.96         00:55:26
+========================================================================
+PROMEDIO DE RATING: 2.85
+PROMEDIO DE DROP-OFF: 0.59
+DURACION TOTAL: 05:02:41

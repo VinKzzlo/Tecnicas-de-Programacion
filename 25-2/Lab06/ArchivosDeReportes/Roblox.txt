@@ -1,0 +1,11 @@
+Codigo: NZ127Y46
+Nombre: roblox
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Roblox
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+06/09/2025   summit1g               2.81        0.62         01:02:47
+========================================================================
+PROMEDIO DE RATING: 2.81
+PROMEDIO DE DROP-OFF: 0.62
+DURACION TOTAL: 01:02:47

@@ -1,0 +1,14 @@
+Codigo: DB186L52
+Nombre: world_of_warcraft
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/World_Of_Warcraft
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+30/09/2025   Gotaga                 2.86        0.66         00:50:50
+20/09/2025   Pestily                2.43        0.32         01:19:47
+01/11/2025   LCK                    2.48        0.99         00:47:23
+19/09/2025   YoDa                   1.14        0.25         00:39:19
+========================================================================
+PROMEDIO DE RATING: 2.23
+PROMEDIO DE DROP-OFF: 0.55
+DURACION TOTAL: 03:37:19

@@ -1,0 +1,14 @@
+Codigo: RK128P86
+Nombre: last_epoch
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Last_Epoch
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+23/08/2025   Sardoche               3.54        0.43         00:30:40
+22/10/2025   Tfue                   3.01        0.81         00:26:30
+25/09/2025   Fresh                  4.90        0.82         01:39:04
+15/09/2025   TheGrefg               2.43        0.66         00:02:36
+========================================================================
+PROMEDIO DE RATING: 3.47
+PROMEDIO DE DROP-OFF: 0.68
+DURACION TOTAL: 02:38:50

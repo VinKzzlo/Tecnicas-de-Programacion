@@ -1,0 +1,11 @@
+Codigo: CV195R73
+Nombre: vrchat
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Vrchat
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+30/10/2025   ibai                   1.49        0.57         02:17:05
+========================================================================
+PROMEDIO DE RATING: 1.49
+PROMEDIO DE DROP-OFF: 0.57
+DURACION TOTAL: 02:17:05

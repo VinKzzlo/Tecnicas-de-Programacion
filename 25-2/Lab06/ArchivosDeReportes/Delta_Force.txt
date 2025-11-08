@@ -1,0 +1,14 @@
+Codigo: RL171J41
+Nombre: delta_force
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Delta_Force
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+06/09/2025   LCS                    2.08        0.83         00:27:13
+19/10/2025   CohhCarnage            1.60        0.39         00:20:01
+20/10/2025   MOONMOON               2.56        0.85         00:51:50
+02/10/2025   Evelone192             4.24        0.96         01:36:03
+========================================================================
+PROMEDIO DE RATING: 2.62
+PROMEDIO DE DROP-OFF: 0.76
+DURACION TOTAL: 03:15:07

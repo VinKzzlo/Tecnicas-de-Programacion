@@ -1,0 +1,18 @@
+Codigo: LB198Z91
+Nombre: deadlock
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Deadlock
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+18/08/2025   LCK_Korea              1.10        0.66         02:06:52
+04/10/2025   loltyler1              1.27        0.92         01:48:26
+25/08/2025   YoDa                   2.67        0.84         01:03:39
+05/09/2025   handongsuk             2.74        0.17         01:52:28
+12/09/2025   Lord_Kebun             1.10        0.94         02:17:14
+30/08/2025   Fextralife             2.20        0.61         01:20:30
+11/09/2025   Fresh                  2.40        0.10         01:29:51
+18/09/2025   handongsuk             2.18        0.60         00:57:27
+========================================================================
+PROMEDIO DE RATING: 1.96
+PROMEDIO DE DROP-OFF: 0.60
+DURACION TOTAL: 12:56:27

@@ -1,0 +1,15 @@
+Codigo: ZG113P58
+Nombre: retro
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Retro
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+04/10/2025   Gaules                 2.85        0.63         00:38:01
+01/11/2025   BeyondTheSummit        4.34        0.80         01:23:05
+10/09/2025   Asmongold              1.19        0.57         01:02:04
+27/09/2025   YoDa                   4.07        0.54         01:53:37
+31/08/2025   LEC                    4.05        0.39         00:26:21
+========================================================================
+PROMEDIO DE RATING: 3.30
+PROMEDIO DE DROP-OFF: 0.58
+DURACION TOTAL: 05:23:08

@@ -1,0 +1,12 @@
+Codigo: LJ159A55
+Nombre: hollow_knight
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Hollow_Knight
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+29/09/2025   handongsuk             1.75        0.14         01:53:11
+05/10/2025   Anomaly                4.77        0.09         02:04:25
+========================================================================
+PROMEDIO DE RATING: 3.26
+PROMEDIO DE DROP-OFF: 0.12
+DURACION TOTAL: 03:57:36

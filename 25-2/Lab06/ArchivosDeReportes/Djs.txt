@@ -1,0 +1,12 @@
+Codigo: NU114V45
+Nombre: djs
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Djs
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+03/09/2025   GamesDoneQuick         4.97        0.08         02:21:16
+08/10/2025   OgamingLoL             2.48        0.32         00:20:18
+========================================================================
+PROMEDIO DE RATING: 3.72
+PROMEDIO DE DROP-OFF: 0.20
+DURACION TOTAL: 02:41:34

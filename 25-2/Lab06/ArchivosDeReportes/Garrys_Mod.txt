@@ -1,0 +1,14 @@
+Codigo: DU188A83
+Nombre: garrys_mod
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Garrys_Mod
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+31/08/2025   Castro_1021            1.59        0.45         01:51:10
+12/09/2025   Solary                 4.03        0.07         01:30:17
+22/10/2025   DrLupo                 2.07        0.91         01:12:43
+30/09/2025   TimTheTatman           4.11        0.44         01:18:37
+========================================================================
+PROMEDIO DE RATING: 2.95
+PROMEDIO DE DROP-OFF: 0.47
+DURACION TOTAL: 05:52:47

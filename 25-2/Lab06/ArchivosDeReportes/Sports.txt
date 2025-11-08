@@ -1,0 +1,13 @@
+Codigo: PK187T86
+Nombre: sports
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Sports
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+12/09/2025   TFBlade                4.01        0.99         00:12:58
+30/10/2025   Tfue                   3.37        0.08         02:07:35
+22/09/2025   Rubius                 4.50        0.28         01:15:01
+========================================================================
+PROMEDIO DE RATING: 3.96
+PROMEDIO DE DROP-OFF: 0.45
+DURACION TOTAL: 03:35:34

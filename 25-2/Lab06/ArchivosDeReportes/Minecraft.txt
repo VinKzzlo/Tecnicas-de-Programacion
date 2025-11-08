@@ -1,0 +1,11 @@
+Codigo: DT153T53
+Nombre: minecraft
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Minecraft
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+30/08/2025   ibai                   2.65        0.34         00:19:26
+========================================================================
+PROMEDIO DE RATING: 2.65
+PROMEDIO DE DROP-OFF: 0.34
+DURACION TOTAL: 00:19:26

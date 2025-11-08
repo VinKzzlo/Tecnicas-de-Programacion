@@ -1,0 +1,14 @@
+Codigo: VO168I62
+Nombre: world_of_warships
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/World_Of_Warships
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+03/09/2025   Sardoche               2.57        0.70         01:45:50
+14/10/2025   Yassuo                 3.71        0.83         02:06:17
+28/08/2025   Castro_1021            2.10        0.30         02:03:16
+19/08/2025   GamesDoneQuick         2.63        0.91         00:39:01
+========================================================================
+PROMEDIO DE RATING: 2.75
+PROMEDIO DE DROP-OFF: 0.69
+DURACION TOTAL: 06:34:24

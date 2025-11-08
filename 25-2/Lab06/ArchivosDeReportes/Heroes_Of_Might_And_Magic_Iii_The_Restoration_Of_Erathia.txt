@@ -1,0 +1,14 @@
+Codigo: AZ147L57
+Nombre: heroes_of_might_and_magic_iii_the_restoration_of_erathia
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Heroes_Of_Might_And_Magic_Iii_The_Restoration_Of_Erathia
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+18/10/2025   TimTheTatman           3.06        0.06         02:12:03
+27/08/2025   ROSHTEIN               4.88        0.36         00:22:19
+05/10/2025   TimTheTatman           2.20        0.18         01:17:20
+02/10/2025   riotgames              1.39        0.84         00:42:03
+========================================================================
+PROMEDIO DE RATING: 2.88
+PROMEDIO DE DROP-OFF: 0.36
+DURACION TOTAL: 04:33:45

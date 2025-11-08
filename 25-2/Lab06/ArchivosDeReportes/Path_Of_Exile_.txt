@@ -1,0 +1,15 @@
+Codigo: LD127Y85
+Nombre: path_of_exile_2
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Path_Of_Exile_
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+01/11/2025   Auronplay              3.44        0.42         00:58:45
+01/09/2025   DrLupo                 2.98        0.33         01:25:49
+01/11/2025   YoDa                   3.67        0.40         01:20:04
+27/09/2025   LCS                    4.77        0.42         01:59:14
+28/08/2025   Lord_Kebun             1.47        0.07         01:49:44
+========================================================================
+PROMEDIO DE RATING: 3.27
+PROMEDIO DE DROP-OFF: 0.33
+DURACION TOTAL: 07:33:36

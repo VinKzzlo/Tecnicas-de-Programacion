@@ -1,0 +1,15 @@
+Codigo: KB123B15
+Nombre: destiny_2
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Destiny_
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+24/08/2025   Gotaga                 2.07        0.94         02:05:34
+20/09/2025   Gaules                 1.45        0.34         01:39:39
+18/08/2025   nl_Kripp               4.33        0.01         00:26:38
+12/10/2025   handongsuk             2.57        0.16         00:32:41
+31/08/2025   TFBlade                4.11        0.69         01:08:07
+========================================================================
+PROMEDIO DE RATING: 2.91
+PROMEDIO DE DROP-OFF: 0.43
+DURACION TOTAL: 05:52:39

@@ -1,0 +1,13 @@
+Codigo: BQ199B68
+Nombre: star_citizen
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Star_Citizen
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+02/11/2025   ROSHTEIN               4.33        0.94         01:55:12
+19/08/2025   loltyler1              1.51        0.24         01:44:24
+05/10/2025   nl_Kripp               4.11        0.18         01:43:32
+========================================================================
+PROMEDIO DE RATING: 3.31
+PROMEDIO DE DROP-OFF: 0.45
+DURACION TOTAL: 05:23:08

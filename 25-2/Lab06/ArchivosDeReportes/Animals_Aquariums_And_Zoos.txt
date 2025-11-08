@@ -1,0 +1,15 @@
+Codigo: YC193H47
+Nombre: animals_aquariums_and_zoos
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Animals_Aquariums_And_Zoos
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+12/09/2025   hanryang1125           3.88        0.81         00:01:35
+29/09/2025   hanryang1125           4.91        0.49         02:10:19
+29/10/2025   GamesDoneQuick         4.58        0.17         01:04:22
+03/09/2025   MOONMOON               4.68        0.17         01:57:56
+31/08/2025   nl_Kripp               1.18        0.21         01:25:06
+========================================================================
+PROMEDIO DE RATING: 3.85
+PROMEDIO DE DROP-OFF: 0.37
+DURACION TOTAL: 06:39:18

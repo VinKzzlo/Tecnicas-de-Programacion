@@ -1,0 +1,15 @@
+Codigo: NO156F14
+Nombre: foxhole
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Foxhole
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+17/10/2025   Rubius                 4.44        0.06         01:24:23
+18/10/2025   Rubius                 1.03        0.61         00:10:05
+30/08/2025   LCS                    3.62        0.75         01:38:56
+02/11/2025   Rubius                 3.26        0.16         01:41:57
+17/10/2025   Fextralife             2.78        0.09         01:55:21
+========================================================================
+PROMEDIO DE RATING: 3.03
+PROMEDIO DE DROP-OFF: 0.33
+DURACION TOTAL: 06:50:42

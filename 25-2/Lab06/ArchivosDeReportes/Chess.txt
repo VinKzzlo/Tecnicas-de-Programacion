@@ -1,0 +1,12 @@
+Codigo: TP152U58
+Nombre: chess
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Chess
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+19/10/2025   xQcOW                  2.72        0.19         00:41:37
+28/10/2025   riotgames              2.24        0.48         01:04:31
+========================================================================
+PROMEDIO DE RATING: 2.48
+PROMEDIO DE DROP-OFF: 0.33
+DURACION TOTAL: 01:46:08

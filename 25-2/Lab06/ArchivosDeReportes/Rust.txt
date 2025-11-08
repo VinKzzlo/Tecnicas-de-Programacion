@@ -1,0 +1,17 @@
+Codigo: EW188U26
+Nombre: rust
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Rust
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+03/11/2025   Gaules                 3.48        0.34         01:49:26
+16/09/2025   Fresh                  2.08        0.57         00:02:44
+15/09/2025   Rubius                 1.53        0.62         02:13:47
+07/10/2025   DrDisrespect           3.10        0.48         02:03:59
+23/09/2025   DrDisrespect           2.01        0.11         00:06:03
+20/10/2025   Gaules                 4.70        0.88         02:03:42
+03/11/2025   TimTheTatman           1.48        0.24         01:30:35
+========================================================================
+PROMEDIO DE RATING: 2.62
+PROMEDIO DE DROP-OFF: 0.46
+DURACION TOTAL: 09:50:16

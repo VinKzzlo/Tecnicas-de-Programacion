@@ -1,0 +1,15 @@
+Codigo: BK137V33
+Nombre: always_on
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Always_On
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+12/10/2025   NICKMERCS              3.49        0.20         00:13:49
+01/09/2025   HasanAbi               3.44        0.69         00:58:54
+06/09/2025   handongsuk             1.19        0.72         00:56:01
+29/10/2025   TFBlade                2.21        0.12         00:20:01
+08/09/2025   Fextralife             4.78        0.87         02:05:51
+========================================================================
+PROMEDIO DE RATING: 3.02
+PROMEDIO DE DROP-OFF: 0.52
+DURACION TOTAL: 04:34:36

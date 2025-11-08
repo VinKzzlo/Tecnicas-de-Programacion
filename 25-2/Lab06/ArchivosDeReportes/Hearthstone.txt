@@ -1,0 +1,12 @@
+Codigo: RN127Z69
+Nombre: hearthstone
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Hearthstone
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+30/10/2025   GamesDoneQuick         3.76        0.60         02:18:32
+04/09/2025   Auronplay              3.22        0.47         01:15:19
+========================================================================
+PROMEDIO DE RATING: 3.49
+PROMEDIO DE DROP-OFF: 0.54
+DURACION TOTAL: 03:33:51

@@ -1,0 +1,15 @@
+Codigo: BA171U58
+Nombre: talk_shows_6_podcasts
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Talk_Shows_
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+11/10/2025   HasanAbi               1.71        0.31         00:53:34
+24/09/2025   Fextralife             3.30        0.73         01:11:17
+23/09/2025   loltyler1              1.98        0.45         00:08:38
+04/10/2025   Fextralife             1.11        0.03         02:22:42
+27/10/2025   handongsuk             4.36        0.89         01:42:14
+========================================================================
+PROMEDIO DE RATING: 2.49
+PROMEDIO DE DROP-OFF: 0.48
+DURACION TOTAL: 06:18:25

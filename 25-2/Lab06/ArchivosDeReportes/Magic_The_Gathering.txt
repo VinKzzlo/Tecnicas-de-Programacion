@@ -1,0 +1,17 @@
+Codigo: QA163C53
+Nombre: magic_the_gathering
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Magic_The_Gathering
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+21/09/2025   summit1g               3.39        0.17         02:12:03
+12/10/2025   Pestily                1.65        0.24         02:10:28
+28/08/2025   riotgames              4.60        0.64         02:19:58
+01/09/2025   TheGrefg               1.86        0.34         00:00:43
+28/09/2025   OgamingLoL             4.37        0.58         01:48:09
+20/08/2025   NICKMERCS              4.17        0.67         00:41:02
+12/09/2025   TheGrefg               3.58        0.66         01:57:48
+========================================================================
+PROMEDIO DE RATING: 3.37
+PROMEDIO DE DROP-OFF: 0.47
+DURACION TOTAL: 11:10:11

@@ -1,0 +1,12 @@
+Codigo: AG139R21
+Nombre: sea_of_thieves
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Sea_Of_Thieves
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+20/10/2025   TFBlade                1.07        0.87         01:31:00
+20/09/2025   summit1g               2.40        0.19         00:29:31
+========================================================================
+PROMEDIO DE RATING: 1.73
+PROMEDIO DE DROP-OFF: 0.53
+DURACION TOTAL: 02:00:31

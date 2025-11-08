@@ -1,0 +1,14 @@
+Codigo: FE115G27
+Nombre: shadowverse_worlds_beyond
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Shadowverse_Worlds_Beyond
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+22/10/2025   Solary                 4.77        0.34         02:14:47
+14/09/2025   dota2mc_ru             3.83        0.08         00:51:24
+28/10/2025   Rubius                 3.90        0.47         00:01:18
+02/10/2025   Myth                   1.86        0.85         01:08:24
+========================================================================
+PROMEDIO DE RATING: 3.59
+PROMEDIO DE DROP-OFF: 0.43
+DURACION TOTAL: 04:15:53

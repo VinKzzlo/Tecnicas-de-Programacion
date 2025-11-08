@@ -1,0 +1,15 @@
+Codigo: BC173T92
+Nombre: blue_protocol_star_resonance
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Blue_Protocol_Star_Resonance
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+06/10/2025   BeyondTheSummit        4.00        0.63         00:33:50
+28/09/2025   NICKMERCS              1.95        0.52         02:12:20
+29/10/2025   xQcOW                  2.48        0.56         01:52:28
+25/08/2025   LCK_Korea              1.80        0.47         00:16:42
+10/10/2025   YoDa                   1.55        0.92         00:55:26
+========================================================================
+PROMEDIO DE RATING: 2.36
+PROMEDIO DE DROP-OFF: 0.62
+DURACION TOTAL: 05:50:46

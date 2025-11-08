@@ -1,0 +1,14 @@
+Codigo: VD139J89
+Nombre: gears_of_war_reloaded
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Gears_Of_War_Reloaded
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+28/08/2025   Lord_Kebun             1.39        0.83         01:51:10
+23/08/2025   riotgames              4.18        0.62         01:20:04
+22/09/2025   Dota2RuHub             1.21        0.59         01:48:00
+06/09/2025   NICKMERCS              3.95        0.53         00:12:06
+========================================================================
+PROMEDIO DE RATING: 2.68
+PROMEDIO DE DROP-OFF: 0.64
+DURACION TOTAL: 05:11:20

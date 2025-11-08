@@ -1,0 +1,12 @@
+Codigo: QR146D97
+Nombre: escape_from_tarkov
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Escape_From_Tarkov
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+02/10/2025   summit1g               4.99        0.29         00:21:53
+16/10/2025   dota2mc_ru             4.97        0.45         00:20:10
+========================================================================
+PROMEDIO DE RATING: 4.98
+PROMEDIO DE DROP-OFF: 0.37
+DURACION TOTAL: 00:42:03

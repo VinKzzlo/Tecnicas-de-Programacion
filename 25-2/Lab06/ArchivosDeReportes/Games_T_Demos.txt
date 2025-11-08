@@ -1,0 +1,12 @@
+Codigo: NN197G83
+Nombre: games_t_demos
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Games_T_Demos
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+13/10/2025   Castro_1021            1.06        0.50         02:19:15
+23/08/2025   loltyler1              3.96        0.79         01:55:12
+========================================================================
+PROMEDIO DE RATING: 2.51
+PROMEDIO DE DROP-OFF: 0.65
+DURACION TOTAL: 04:14:27

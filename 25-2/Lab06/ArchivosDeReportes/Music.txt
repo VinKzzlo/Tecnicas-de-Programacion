@@ -1,0 +1,15 @@
+Codigo: UW174Q61
+Nombre: music
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Music
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+06/09/2025   Anomaly                4.59        0.71         01:18:37
+11/10/2025   TimTheTatman           1.88        0.94         00:37:35
+11/09/2025   TimTheTatman           3.87        0.27         00:56:18
+04/10/2025   Alanzoka               4.76        0.63         02:21:59
+01/11/2025   summit1g               1.89        0.53         00:02:18
+========================================================================
+PROMEDIO DE RATING: 3.40
+PROMEDIO DE DROP-OFF: 0.61
+DURACION TOTAL: 05:16:47

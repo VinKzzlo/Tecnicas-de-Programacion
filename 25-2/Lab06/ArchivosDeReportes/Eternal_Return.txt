@@ -1,0 +1,13 @@
+Codigo: TM145B57
+Nombre: eternal_return
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Eternal_Return
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+02/10/2025   Gaules                 4.40        0.59         00:29:31
+27/08/2025   DrDisrespect           2.23        0.41         02:21:50
+03/09/2025   OgamingLoL             2.94        0.40         00:24:29
+========================================================================
+PROMEDIO DE RATING: 3.19
+PROMEDIO DE DROP-OFF: 0.47
+DURACION TOTAL: 03:15:50

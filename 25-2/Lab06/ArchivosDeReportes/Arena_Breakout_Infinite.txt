@@ -1,0 +1,11 @@
+Codigo: DA182Q73
+Nombre: arena_breakout_infinite
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Arena_Breakout_Infinite
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+10/10/2025   TheRealKnossi          4.08        0.90         00:47:40
+========================================================================
+PROMEDIO DE RATING: 4.08
+PROMEDIO DE DROP-OFF: 0.90
+DURACION TOTAL: 00:47:40

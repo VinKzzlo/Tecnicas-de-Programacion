@@ -1,0 +1,14 @@
+Codigo: PC112O99
+Nombre: warframe
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Warframe
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+25/09/2025   Alanzoka               1.44        0.79         02:02:50
+17/10/2025   LCS                    1.68        0.75         01:18:12
+23/08/2025   LIRIK                  4.38        0.15         00:31:32
+28/10/2025   Yassuo                 4.37        0.51         01:10:34
+========================================================================
+PROMEDIO DE RATING: 2.97
+PROMEDIO DE DROP-OFF: 0.55
+DURACION TOTAL: 05:03:08

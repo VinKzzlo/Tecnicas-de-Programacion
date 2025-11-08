@@ -1,0 +1,13 @@
+Codigo: DN124W94
+Nombre: league_of_legends
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/League_Of_Legends
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+19/10/2025   Rubius                 3.98        0.94         00:44:47
+29/09/2025   YoDa                   3.78        0.57         02:18:49
+04/10/2025   Gaules                 2.13        0.12         02:23:25
+========================================================================
+PROMEDIO DE RATING: 3.30
+PROMEDIO DE DROP-OFF: 0.54
+DURACION TOTAL: 05:27:01

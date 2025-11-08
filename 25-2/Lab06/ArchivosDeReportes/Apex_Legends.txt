@@ -1,0 +1,11 @@
+Codigo: KI146T56
+Nombre: apex_legends
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Apex_Legends
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+07/10/2025   Asmongold              3.71        0.86         00:38:36
+========================================================================
+PROMEDIO DE RATING: 3.71
+PROMEDIO DE DROP-OFF: 0.86
+DURACION TOTAL: 00:38:36

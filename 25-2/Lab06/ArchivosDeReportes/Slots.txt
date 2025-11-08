@@ -1,0 +1,11 @@
+Codigo: GW115W74
+Nombre: slots
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Slots
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+31/08/2025   Fresh                  1.15        0.23         00:36:00
+========================================================================
+PROMEDIO DE RATING: 1.15
+PROMEDIO DE DROP-OFF: 0.23
+DURACION TOTAL: 00:36:00

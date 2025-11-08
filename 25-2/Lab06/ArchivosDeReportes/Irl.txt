@@ -1,0 +1,14 @@
+Codigo: XG132J21
+Nombre: irl
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Irl
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+17/09/2025   Myth                   2.62        0.56         00:37:35
+25/08/2025   LIRIK                  4.66        0.92         01:30:09
+25/08/2025   TheRealKnossi          1.33        0.71         00:33:50
+05/09/2025   LEC                    2.63        0.81         00:53:43
+========================================================================
+PROMEDIO DE RATING: 2.81
+PROMEDIO DE DROP-OFF: 0.75
+DURACION TOTAL: 03:35:17

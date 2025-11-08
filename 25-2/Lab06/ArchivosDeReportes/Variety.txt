@@ -1,0 +1,12 @@
+Codigo: BY199O22
+Nombre: variety
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Variety
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+13/10/2025   Evelone192             1.88        0.56         01:36:29
+14/09/2025   Alanzoka               3.24        0.67         00:18:35
+========================================================================
+PROMEDIO DE RATING: 2.56
+PROMEDIO DE DROP-OFF: 0.62
+DURACION TOTAL: 01:55:04

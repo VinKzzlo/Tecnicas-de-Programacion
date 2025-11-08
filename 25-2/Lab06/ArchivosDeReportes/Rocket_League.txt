@@ -1,0 +1,13 @@
+Codigo: RO195M41
+Nombre: rocket_league
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Rocket_League
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+14/10/2025   ESL_CSGO               2.73        0.62         02:11:37
+19/08/2025   HasanAbi               2.29        0.90         01:55:47
+05/10/2025   YoDa                   2.18        0.61         00:13:58
+========================================================================
+PROMEDIO DE RATING: 2.40
+PROMEDIO DE DROP-OFF: 0.71
+DURACION TOTAL: 04:21:22

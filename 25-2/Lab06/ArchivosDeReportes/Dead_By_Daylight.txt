@@ -1,0 +1,18 @@
+Codigo: LN112E45
+Nombre: dead_by_daylight
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Dead_By_Daylight
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+20/08/2025   Castro_1021            3.53        0.88         00:05:54
+17/10/2025   OgamingLoL             4.17        0.48         02:17:14
+18/10/2025   ESL_CSGO               4.74        0.77         01:56:21
+21/09/2025   TheGrefg               2.10        1.00         02:02:59
+05/09/2025   Asmongold              1.18        0.14         00:28:22
+05/09/2025   loltyler1              3.17        0.09         02:07:18
+23/08/2025   LCS                    1.41        0.22         02:00:14
+20/08/2025   loltyler1              4.52        0.52         01:34:28
+========================================================================
+PROMEDIO DE RATING: 3.10
+PROMEDIO DE DROP-OFF: 0.51
+DURACION TOTAL: 12:32:50

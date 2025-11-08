@@ -1,0 +1,16 @@
+Codigo: OZ151I97
+Nombre: haunted_room_205
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Haunted_Room_
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+14/09/2025   handongsuk             4.30        0.17         00:37:26
+10/10/2025   MontanaBlack88         3.62        0.54         01:40:05
+18/08/2025   LCS                    3.17        0.18         00:15:16
+20/09/2025   ESL_CSGO               4.41        0.35         00:24:20
+12/10/2025   MOONMOON               4.62        0.26         00:28:39
+20/10/2025   TFBlade                1.14        0.16         02:14:21
+========================================================================
+PROMEDIO DE RATING: 3.54
+PROMEDIO DE DROP-OFF: 0.28
+DURACION TOTAL: 05:40:07

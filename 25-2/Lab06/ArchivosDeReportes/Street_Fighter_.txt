@@ -1,0 +1,12 @@
+Codigo: BQ129A71
+Nombre: street_fighter_6
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Street_Fighter_
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+16/09/2025   LEC                    2.39        0.11         00:02:36
+01/09/2025   Fresh                  3.34        0.18         00:43:21
+========================================================================
+PROMEDIO DE RATING: 2.87
+PROMEDIO DE DROP-OFF: 0.14
+DURACION TOTAL: 00:45:57

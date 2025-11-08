@@ -1,0 +1,13 @@
+Codigo: OR112F58
+Nombre: are_you_smarter_than_a_5th_grader
+Enlace: https://Laboratorio06_2025_2/ArchivosDeReportes/Are_You_Smarter_Than_A_
+REPRODUCCIONES:
+========================================================================
+FECHA        CANAL                 RATING     DROP-OFF       DURACION
+21/09/2025   MontanaBlack88         3.81        0.51         01:03:22
+24/10/2025   DrDisrespect           4.72        0.65         01:41:40
+28/09/2025   DrDisrespect           4.39        0.12         00:31:24
+========================================================================
+PROMEDIO DE RATING: 4.31
+PROMEDIO DE DROP-OFF: 0.43
+DURACION TOTAL: 03:16:26
